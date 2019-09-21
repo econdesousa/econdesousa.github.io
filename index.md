@@ -14,11 +14,11 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
 
 ### Contact
 
-Email:
+*Email:*
 
-econdesousa@ineb.up.pt
+[econdesousa@ineb.up.pt](mailto:econdesousa@ineb.up.pt)
 
-econdesousa@gmail.com
+[econdesousa@gmail.com](mailto:econdesousa@gmail.com)
 
 Address:
 
