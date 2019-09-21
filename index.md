@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Eduardo Conde-Sousa Webpage
 
-You can use the [editor on GitHub](https://github.com/econdesousa/econdesousa.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Who Am I?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+I have a particular interest on the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes, from bioimage analysis, or neurosciences, to population genetics, or genomics.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+After concluding my PhD at CMUP (Centre for Mathematics of the University of Porto) in the field of Theoretical and Computational Neuroscience in 2014, I moved to CIBIO-InBIO (Research Centre in Biodiversity and Genetics Resources) as a Bioinformatician.
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+In 2016 I moved to CBMA (Centre of Molecular and Environmental Biology of University of Minho) where I worked as Bioinformatician until March 2018.
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/econdesousa/econdesousa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platform as bioimage analyst.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+### Contact
+Contact
+Email:    econdesousa@ineb.up.pt | econdesousa@gmail.com
+Address:  Eduardo Conde-Sousa | INEB/i3S, Rua Alfredo Allen, 208 | 4200-135 Porto, Portugal
+Tel: +351 220408815
