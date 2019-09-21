@@ -14,8 +14,14 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
 
 ### Contact
 
-Email:    econdesousa@ineb.up.pt | econdesousa@gmail.com
+Email:    
+econdesousa@ineb.up.pt
+econdesousa@gmail.com
 
-Address:  Eduardo Conde-Sousa | INEB/i3S, Rua Alfredo Allen, 208 | 4200-135 Porto, Portugal
+Address:
+Eduardo Conde-Sousa
+INEB/i3S, Rua Alfredo Allen, 208
+4200-135 Porto, Portugal
 
-Tel: +351 220408815
+Tel:
++351 220408815
