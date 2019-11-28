@@ -32,4 +32,5 @@ Tel: +351 226074975
 
 
 ![Resulting Image](https://github.com/econdesousa/ImageAnalysis/blob/master/gifWithOverlay/008_passe.gif)
+
 for more info on this image please see:https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay
