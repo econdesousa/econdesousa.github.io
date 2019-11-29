@@ -1,6 +1,4 @@
 <table border="0">
-  <col width="300">
-  <col width="50">
   <tr>
     <td><b style="font-size:60px">Who am I?</b></td>
     <td><b style="font-size:30px">Contacts</b></td>
@@ -47,7 +45,9 @@ Tel: +351 226074975
   
 ![useful image]( https://econdesousa.github.io/assets/008_passe.gif)
 
+</td>
 
+<td>
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
  
 
