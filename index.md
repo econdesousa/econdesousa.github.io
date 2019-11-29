@@ -33,3 +33,9 @@ Tel: +351 226074975
 ![useful image]( https://econdesousa.github.io/assets/008_passe.gif)
 
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
+
+
+<div class="grid">
+  <div>foo</div>
+  <div>bar</div>
+</div>
