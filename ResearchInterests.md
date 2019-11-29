@@ -1,6 +1,6 @@
 # Research Interests
 
-## BioImage Analysis
+### BioImage Analysis
 
 Develop new algorithms and computational tools for bioimage processing.
 
@@ -9,27 +9,27 @@ Train researchers on the use of image analysis tools appropriate to their needs 
 Help researchers to prepare their experiments in order to maximize results in subsequent image analysis.
 
 
-## Algorithms / Software Development
+### Algorithms / Software Development
 
 Develop new software and / or plugins to use in biomedical research.
 
 Developing scripts to automate recurrent tasks.
 
 
-## Bioinformatics
+### Bioinformatics
 
 Development of scripts and implementation of software for genome/exome-wide studies.
 
 DNA barcoding
 
 
-## Population Genetics
+### Population Genetics
 
 Mutation modeling.
 
 Quantification of genetic evidence.
 
 
-## Genomics
+### Genomics
 
 Whole-genome  and whole-exome studies
