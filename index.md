@@ -35,7 +35,13 @@ Tel: +351 226074975
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
 
 
-<div class="grid">
-  <div>foo</div>
-  <div>bar</div>
-</div>
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
