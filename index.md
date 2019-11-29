@@ -41,5 +41,5 @@ for more info on this image please click [here!](https://github.com/econdesousa/
 
 
 
-|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} |
-
+|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} | 
+[Publications](https://econdesousa.github.io/Publications){: .btn} | [External Links](https://econdesousa.github.io/Links){: .btn} |
