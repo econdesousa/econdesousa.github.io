@@ -38,13 +38,21 @@ INEB/i3S, Rua Alfredo Allen, 208
 
 Tel: +351 226074975
 </td>
+
+<td>
+  
+![useful image]( https://econdesousa.github.io/assets/008_passe.gif)
+
+for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
+  </td>
+  
+  <td>
+
+</td>
  </tr>
 </table>
 
 
 
 
-![useful image]( https://econdesousa.github.io/assets/008_passe.gif)
-
-for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
 
