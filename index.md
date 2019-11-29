@@ -33,6 +33,3 @@ Tel: +351 226074975
 [useful image](https://econdesousa.github.io/assets/008_passe.gif) 
 
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
-
-
-{% include image.html url="/assets/008_passe.gif" description="for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)" %}
