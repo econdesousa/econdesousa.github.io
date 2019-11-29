@@ -1,3 +1,6 @@
+|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} |
+
+
 # Research Interests
 
 ### BioImage Analysis
@@ -33,3 +36,6 @@ Quantification of genetic evidence.
 ### Genomics
 
 Whole-genome  and whole-exome studies
+
+
+|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} |
