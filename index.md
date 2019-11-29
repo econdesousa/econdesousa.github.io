@@ -1,7 +1,7 @@
 
 <table border="0">
   <tr>
-    <td><b style="font-size:30px">Who am I?</b></td>
+    <td><b style="font-size:60px">Who am I?</b></td>
     <td><b style="font-size:30px">Contacts</b></td>
  </tr>
  <tr>
