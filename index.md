@@ -31,6 +31,6 @@ Tel: +351 226074975
 
 
 
-![MeMyselfAndI](https://econdesousa.github.io/assets/008_passe.gif) 
+![MeMyselfAndI](https://econdesousa.github.io/assets/008_passe.gif | width=100)
 
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
