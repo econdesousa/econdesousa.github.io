@@ -1,5 +1,8 @@
-|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} | 
-[Publications](https://econdesousa.github.io/Publications){: .btn} | [External Links](https://econdesousa.github.io/Links){: .btn} |
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+
 
 
 # Research Interests
@@ -38,6 +41,8 @@ Quantification of genetic evidence.
 
 Whole-genome  and whole-exome studies
 
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
 
-|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} | 
-[Publications](https://econdesousa.github.io/Publications){: .btn} | [External Links](https://econdesousa.github.io/Links){: .btn} |
