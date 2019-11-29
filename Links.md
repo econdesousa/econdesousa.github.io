@@ -1,3 +1,10 @@
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+
+
+
 # External information about me
 
 [Google Scholar!](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao)
@@ -51,3 +58,10 @@
 [PDMA - Doctoral Program in Applied Mathematics](https://sigarra.up.pt/fcup/pt/cur_geral.cur_view?pv_curso_id=1020)
 
 [UP- University of Porto](https://sigarra.up.pt/up/en/web_base.gera_pagina?p_pagina=home)
+
+
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+
