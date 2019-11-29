@@ -7,13 +7,13 @@
 
 # External information about me
 
-[Google Scholar!](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao)
+[Google Scholar](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao)
 
-[ORCID!](https://orcid.org/0000-0002-6591-5063)
+[ORCID](https://orcid.org/0000-0002-6591-5063)
 
-[SCOPUS!](https://www.scopus.com/authid/detail.uri?authorId=55233686200)
+[SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=55233686200)
 
-[ResearchID!](https://publons.com/researcher/2113172/eduardo-conde-sousa/)
+[ResearchID](https://publons.com/researcher/2113172/eduardo-conde-sousa/)
 
 
 ## Institutions where I worked (reverse order):
