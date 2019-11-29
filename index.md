@@ -39,7 +39,7 @@ for more info on this image please click [here!](https://github.com/econdesousa/
 <table border="0">
  <tr>
     <td>
-## Who Am I?
+# Who am I?
 
 My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.
 
