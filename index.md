@@ -35,20 +35,7 @@ Tel: +351 226074975
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
 
 
-.grid {
-  display: flex;
-  flex-direction: row;
-  margin: 1rem;
-  
-  > * {
-    margin: 0 0.5rem;
-    
-    &:nth-child(1) {
-      width: calc(100% / 3 * 2);
-    }
-    
-    &:nth-child(2) {
-      width: calc(100% / 3 * 1);
-    }
-  }
-}
+<div class="grid">
+  <div>foo</div>
+  <div>bar</div>
+</div>
