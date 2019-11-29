@@ -1,5 +1,8 @@
-|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} | 
-[Publications](https://econdesousa.github.io/Publications){: .btn} | [External Links](https://econdesousa.github.io/Links){: .btn} |
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+
 
 # Publications in peer reviewed journals
 
@@ -25,5 +28,8 @@
 
 1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
 
-|[Home](https://econdesousa.github.io){: .btn} | [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn} | 
-[Publications](https://econdesousa.github.io/Publications){: .btn} | [External Links](https://econdesousa.github.io/Links){: .btn} |
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+
