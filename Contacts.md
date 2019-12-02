@@ -1,6 +1,10 @@
- 
-<b><font size="16">Contacts</font></b>
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
 
+#Contacts
 
 
 <table style="width:100%">
@@ -33,3 +37,8 @@
 
 
 
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
