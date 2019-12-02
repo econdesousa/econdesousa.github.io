@@ -13,6 +13,13 @@
     <th><b>Address:</b></th>
   </tr>
   <tr>
+	<td width="50%"></td>
+	<td width="50%"></td>
+  </tr>
+</table>
+  
+<table style="width:100%">
+  <tr>
 	<th><a href="mailto:econdesousa@ineb.up.pt">econdesousa@ineb.up.pt</a></th>
 	<th>Eduardo Conde-Sousa</th>
   </tr>
@@ -27,14 +34,7 @@
 	<th></th>
 	<th>Tel: +351 226074975</th>
   </tr>
-  <tr>
-	<td width="50%"></td>
-	<td width="50%"></td>
-  </tr>
 </table>
-  
-  
-
 
 
 [Home](https://econdesousa.github.io){: .btn}
