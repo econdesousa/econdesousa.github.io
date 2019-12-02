@@ -2,6 +2,9 @@
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+
+
 
 
 # Who am I?
@@ -16,25 +19,7 @@ In 2016 I moved to CBMA (Centre of Molecular and Environmental Biology of Univer
 
 In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platform as bioimage analyst.
    
-  
-### Contacts
-
-*Email:*
-
-[econdesousa@ineb.up.pt](mailto:econdesousa@ineb.up.pt)
-
-[econdesousa@gmail.com](mailto:econdesousa@gmail.com)
-
-*Address:*
-
-Eduardo Conde-Sousa
-
-INEB/i3S, Rua Alfredo Allen, 208
-
-4200-135 Porto, Portugal
-
-Tel: +351 226074975
-
+ 
 
 <img src="https://econdesousa.github.io/assets/008_passe.gif" >
 
@@ -42,9 +27,8 @@ Tel: +351 226074975
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
 
 
-
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
-
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
