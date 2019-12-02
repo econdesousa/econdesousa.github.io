@@ -7,13 +7,13 @@
 # Contacts
 
 
-<b>Email:</b>
+### Email:
 
 <a href="mailto:econdesousa@ineb.up.pt">econdesousa@ineb.up.pt</a>
 
 <a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
 
-<b>Address:</b>
+### Address:
 
 Eduardo Conde-Sousa
 
