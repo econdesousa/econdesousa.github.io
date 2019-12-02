@@ -23,7 +23,7 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
 <table style="width:100%">
   <tr>
     <th></th>
-    <th>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a> </th>
+    <th></th>
   </tr>
   <tr>
 	<td width="40%"></td>
