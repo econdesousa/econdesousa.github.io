@@ -10,37 +10,37 @@
 
 ### BioImage Analysis
 
-Develop new algorithms and computational tools for bioimage processing.
+<p align="justify">Develop new algorithms and computational tools for bioimage processing.</p>
 
-Train researchers on the use of image analysis tools appropriate to their needs and on the implementation of their own workflows.
+<p align="justify">Train researchers on the use of image analysis tools appropriate to their needs and on the implementation of their own workflows.</p>
 
-Help researchers to prepare their experiments in order to maximize results in subsequent image analysis.
+<p align="justify">Help researchers to prepare their experiments in order to maximize results in subsequent image analysis.</p>
 
 
 ### Algorithms / Software Development
 
-Develop new software and / or plugins to use in biomedical research.
+<p align="justify">Develop new software and / or plugins to use in biomedical research.</p>
 
-Developing scripts to automate recurrent tasks.
+<p align="justify">Developing scripts to automate recurrent tasks.</p>
 
 
 ### Bioinformatics
 
-Development of scripts and implementation of software for genome/exome-wide studies.
+<p align="justify">Development of scripts and implementation of software for genome/exome-wide studies.</p>
 
-DNA barcoding
+<p align="justify">DNA barcoding.</p>
 
 
 ### Population Genetics
 
-Mutation modeling.
+<p align="justify">Mutation modeling.</p>
 
-Quantification of genetic evidence.
+<p align="justify">Quantification of genetic evidence.</p>
 
 
 ### Genomics
 
-Whole-genome  and whole-exome studies
+<p align="justify">Whole-genome  and whole-exome studies</p>
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
