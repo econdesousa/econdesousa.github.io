@@ -34,7 +34,25 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
 
 <img src="https://econdesousa.github.io/assets/008_passe.gif" width="50%">
 for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a> 
+
  
+<table style="width:100%">
+  <tr>
+    <th></th>
+    <th></th>
+  </tr>
+  <tr>
+	<td width="40%"></td>
+	<td width="60%"></td>
+  </tr>
+  
+</table>
+
+
+<figure>
+	<img src="https://econdesousa.github.io/assets/008_passe.gif" style="width:40%">
+	<figcaption>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a>.</figcaption>
+</figure>
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
