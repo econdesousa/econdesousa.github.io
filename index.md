@@ -20,8 +20,14 @@ In 2016 I moved to CBMA (Centre of Molecular and Environmental Biology of Univer
 In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platform as bioimage analyst.
    
  
+<table style="width:100%">
+  <tr>
+    <th><img src="https://econdesousa.github.io/assets/008_passe.gif"></th>
+    <th>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a> </th>
+  </tr>
+</table>
 
-<img src="https://econdesousa.github.io/assets/008_passe.gif" width=300>
+<img src="https://econdesousa.github.io/assets/008_passe.gif" width="300">
 
 
 for more info on this image please click [here!](https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay)
