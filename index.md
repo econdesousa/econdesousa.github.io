@@ -22,7 +22,7 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
  
 <table style="width:100%">
   <tr>
-    <th><img src="https://econdesousa.github.io/assets/008_passe.gif"></th>
+    <th></th>
     <th>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a> </th>
   </tr>
   <tr>
@@ -32,6 +32,9 @@ In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platfor
   
 </table>
 
+<img src="https://econdesousa.github.io/assets/008_passe.gif" width="50%">
+for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here!</a> 
+ 
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
