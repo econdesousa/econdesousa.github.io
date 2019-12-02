@@ -9,7 +9,7 @@
 
 # Who am I?
 
-My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.
+<p align="justify">My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.
 
 I have a particular interest on the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes, from bioimage analysis, or neurosciences, to population genetics, or genomics.
 
@@ -18,7 +18,7 @@ After concluding my PhD at CMUP (Centre for Mathematics of the University of Por
 In 2016 I moved to CBMA (Centre of Molecular and Environmental Biology of University of Minho) where I worked as Bioinformatician until March 2018.
 
 In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platform as bioimage analyst.
-   
+</p>   
  
 <table style="width:100%">
   <tr>
