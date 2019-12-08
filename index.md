@@ -6,7 +6,6 @@
 
 
 
-
 # Who am I?
 
 <p align="justify">My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.</p>
