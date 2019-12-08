@@ -6,10 +6,10 @@ theme: jekyll-theme-hacker
 github:
   repository_url: https://github.com/econdesousa/
   
-
-sidebar:
-  title: "Different Versions of me"
-  image: "https://econdesousa.github.io/assets/008_passe.gif"
-  image_alt: "Different Versions of me"
-  text: for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here</a>!
+  
+#sidebar:
+#  title: "Different Versions of me"
+#  image: "https://econdesousa.github.io/assets/008_passe.gif"
+#  image_alt: "Different Versions of me"
+#  text: for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here</a>!
   
