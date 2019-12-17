@@ -22,12 +22,13 @@
 1. **Conde-Sousa E.**, Szücs P., Peng H., Aguiar P., N3DFix: an Algorithm for Automatic Removal of Swelling Artifacts in Neuronal Reconstructions, Neuroinformatics, 2016 doi:10.1007/s12021-016-9308-7
 1. **Conde-Sousa E.**, Aguiar P., A working memory model for serial order that stores information in the intrinsic excitability properties of neurons, Journal of Computational Neuroscience, Volume 35, Issue 2, October 2013, pp 187-199
 1. Pinto N., Magalhães M., **Conde-Sousa E.**, Gomes C., Pereira R., Alves C., Gusmão L., Amorim A., Assessing paternities with inconclusive STR results: the suitability of bi-allelic markers, Forensic Science International: Genetics, Volume 7, Issue 1, January 2013, Pages 16-21.
-
+{: reversed="reversed"}
 
 # Publications in conference proceedings
 
 
 1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
+{: reversed="reversed"}
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
