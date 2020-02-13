@@ -11,8 +11,7 @@
 1. **Conde-Sousa, E.**, Pinto, N., Amorim, A.
 Reference DNA databases for forensic species identification: Auditing algorithms
 (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075400821&doi=10.1016%2fj.fsigss.2019.10.091&partnerID=40&md5=1b89844cd909ce5f20917bffb3652662
-DOI: 10.1016/j.fsigss.2019.10.091
+DOI: [10.1016/j.fsigss.2019.10.091]{https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075400821&doi=10.1016%2fj.fsigss.2019.10.091&partnerID=40&md5=1b89844cd909ce5f20917bffb3652662}
 
 1. Antão-Sousa, S., **Conde-Sousa, E.**, Gusmão, L., Amorim, A., Pinto, N.
 Underestimation and misclassification of mutations at X chromosome STRs depend on population's allelic profile
