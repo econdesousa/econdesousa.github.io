@@ -8,20 +8,77 @@
 # Publications in peer reviewed journals
 
 
-1. **E Conde-Sousa**, N Pinto, A Amorim, Reference DNA Databases for forensic species identification: auditing algorithms. Forensic Science International: Genetics Supplement Series, 2019
-1. S Antão-Sousa, **E Conde-Sousa**, L Gusmão, A Amorim, N Pinto, Underestimation and misclassification of mutations at x chromosome strs depend on population’s allelic profile. Forensic Science International: Genetics Supplement Series, 2019
-1. N Pinto, R Simões, A Amorim, **E Conde-Sousa**, Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases. Forensic Science International: Genetics 40, 210-218, 2019
-1. D Barros, P Parreira, J Furtado, F Ferreira-da-Silva, **E Conde-Sousa**, et al., An affinity-based approach to engineer laminin-presenting cell instructive microenvironments. Biomaterials 192, 601-611, 2019
-1. D Barros, **E Conde-Sousa**, AM Gonçalves, WM Han, AJ García, IF Amaral, et al., Engineering hydrogels with affinity-bound laminin as 3D neural stem cell culture systems. Biomaterials Science 7 (12), 5338-5349 2019
-1. Rito T., Vieira D., Silva M., **Conde-Sousa E.**, Pereira L., Mellars P., Richards M.B., Soares P., A dispersal of Homo sapiens from southern to eastern Africa immediately preceded the out-of-Africa migration. Scientific Reports, 9 (1), 4728
-1. Pinto N., Simões R., Amorim A., **Conde-Sousa E.**, Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases, Forensic Science International: Genetics, 2019, (in press), doi: https://doi.org/10.1016/j.fsigen.2019.02.019
-1. Barros D., Parreira P., Furtado J., Ferreira-da-Silva F., **Conde-Sousa E.**, García A.J., Martins M.C.L., Amaral I.F., Pêgo, A.P., An affinity-based approach to engineer laminin-presenting cell instructive microenvironments, Biomaterials, Vol 192, 2019, doi:10.1016/j.biomaterials.2018.10.039.
-1. Machado P., Gusmão L., **Conde-Sousa E.**, Pinto N., The influence of the different mutation models in kinship evaluation, Forensic Science International: Genetics Supplement Series http://dx.doi.org/10.1016/j.fsigss.2017.09.093
-1. Goncalves J., **Conde-Sousa E.**, Egeland T., Amorim A., Pinto N., Key individuals for discerning pedigrees belonging to the same autosomal kinship class, Forensic Science International: Genetics, 19 March 2017, doi: 10.1016/j.fsigen.2017.03.018
-1. Olivieri A., Sidore C., Achilli A., Angius A., Posth C., Furtwängler A., Brandini S., Rosario Capodiferro M., Gandini F., Zoledziewska M., Pitzalis M., Maschio A., Busonero F., Lai L., Skeates R., Giuseppina Gradoli M., Beckett J., Marongiu M., Mazzarello V., Marongiu P., Rubino S., Rito T., Macaulay V., Semino O., Pala M., Abecasis G.R., Schlessinger D., **Conde‑Sousa E.**, Soares P., Richards M.B., Cucca F., Torroni A., Mitogenome diversity in Sardinians: a genetic window onto an island's past, Mol Biol Evol. 2017 Feb 8. doi: 10.1093/molbev/msx082.
-1. **Conde-Sousa E.**, Szücs P., Peng H., Aguiar P., N3DFix: an Algorithm for Automatic Removal of Swelling Artifacts in Neuronal Reconstructions, Neuroinformatics, 2016 doi:10.1007/s12021-016-9308-7
-1. **Conde-Sousa E.**, Aguiar P., A working memory model for serial order that stores information in the intrinsic excitability properties of neurons, Journal of Computational Neuroscience, Volume 35, Issue 2, October 2013, pp 187-199
-1. Pinto N., Magalhães M., **Conde-Sousa E.**, Gomes C., Pereira R., Alves C., Gusmão L., Amorim A., Assessing paternities with inconclusive STR results: the suitability of bi-allelic markers, Forensic Science International: Genetics, Volume 7, Issue 1, January 2013, Pages 16-21.
+1. **Conde-Sousa, E.**, Pinto, N., Amorim, A.
+Reference DNA databases for forensic species identification: Auditing algorithms
+(2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075400821&doi=10.1016%2fj.fsigss.2019.10.091&partnerID=40&md5=1b89844cd909ce5f20917bffb3652662
+DOI: 10.1016/j.fsigss.2019.10.091
+
+1. Antão-Sousa, S., **Conde-Sousa, E.**, Gusmão, L., Amorim, A., Pinto, N.
+Underestimation and misclassification of mutations at X chromosome STRs depend on population's allelic profile
+(2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 718-720. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074422780&doi=10.1016%2fj.fsigss.2019.10.150&partnerID=40&md5=b19974b6398b8bc58534fc0d9bd20720
+DOI: 10.1016/j.fsigss.2019.10.150
+
+1. Barros, D., **Conde-Sousa, E.**, Gonçalves, A.M., Han, W.M., García, A.J., Amaral, I.F., Pêgo, A.P.
+Engineering hydrogels with affinity-bound laminin as 3D neural stem cell culture systems
+(2019) Biomaterials Science, 7 (12), pp. 5338-5349. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075289598&doi=10.1039%2fc9bm00348g&partnerID=40&md5=a0e7f0c71fd70ab7bdc048f86ae4f180
+DOI: 10.1039/c9bm00348g
+
+1. Rito, T., Vieira, D., Silva, M., **Conde-Sousa, E.**, Pereira, L., Mellars, P., Richards, M.B., Soares, P.
+A dispersal of Homo sapiens from southern to eastern Africa immediately preceded the out-of-Africa migration
+(2019) Scientific Reports, 9 (1), art. no. 4728, . 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063327488&doi=10.1038%2fs41598-019-41176-3&partnerID=40&md5=35208bd4c89e861732c183eadc73b89c
+DOI: 10.1038/s41598-019-41176-3
+
+1. Pinto, N., Simões, R., Amorim, A., **Conde-Sousa, E.**
+Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases
+(2019) Forensic Science International: Genetics, 40, pp. 210-218. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063328691&doi=10.1016%2fj.fsigen.2019.02.019&partnerID=40&md5=336ca72be7049d758d8788b1db7a59ac
+DOI: 10.1016/j.fsigen.2019.02.019
+
+1. Barros, D., Parreira, P., Furtado, J., Ferreira-da-Silva, F., **Conde-Sousa, E.**, García, A.J., Martins, M.C.L., Amaral, I.F., Pêgo, A.P.
+An affinity-based approach to engineer laminin-presenting cell instructive microenvironments
+(2019) Biomaterials, 192, pp. 601-611. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85059918479&doi=10.1016%2fj.biomaterials.2018.10.039&partnerID=40&md5=0373ed56085b272c3cfab32d6bed9b2f
+DOI: 10.1016/j.biomaterials.2018.10.039
+
+1. Machado, P., Gusmão, L., **Conde-Sousa, E.**, Pinto, N.
+The influence of the different mutation models in kinship evaluation
+(2017) Forensic Science International: Genetics Supplement Series, 6, pp. e255-e256. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85030265608&doi=10.1016%2fj.fsigss.2017.09.093&partnerID=40&md5=91eb09d7fa830a33413480548657f060
+DOI: 10.1016/j.fsigss.2017.09.093
+
+1. Gonçalves, J., **Conde-Sousa, E.**, Egeland, T., Amorim, A., Pinto, N.
+Key individuals for discerning pedigrees belonging to the same autosomal kinship class
+(2017) Forensic Science International: Genetics, 29, pp. 71-79. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85016474088&doi=10.1016%2fj.fsigen.2017.03.018&partnerID=40&md5=5780d8008b744c5570399785fdb530a3
+DOI: 10.1016/j.fsigen.2017.03.018
+
+1. Olivieri, A., Sidore, C., Achilli, A., Angius, A., Posth, C., Furtwängler, A., Brandini, S., Capodiferro, M.R., Gandini, F., Zoledziewska, M., Pitzalis, M., Maschio, A., Busonero, F., Lai, L., Skeates, R., Gradoli, M.G., Beckett, J., Marongiu, M., Mazzarello, V., Marongiu, P., Rubino, S., Rito, T., Macaulay, V., Semino, O., Pala, M., Abecasis, G.R., Schlessinger, D., **Conde-Sousa, E.**, Soares, P., Richards, M.B., Cucca, F., Torroni, A.
+Mitogenome Diversity in Sardinians: A Genetic Window onto an Island's Past
+(2017) Molecular Biology and Evolution, 34 (5), pp. 1230-1239. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019115396&doi=10.1093%2fmolbev%2fmsx082&partnerID=40&md5=5448670b750362fe8d463f02a6a8d37a
+DOI: 10.1093/molbev/msx082
+
+1. **Conde-Sousa, E.**, Szücs, P., Peng, H., Aguiar, P.
+N3DFix: an Algorithm for Automatic Removal of Swelling Artifacts in Neuronal Reconstructions
+(2017) Neuroinformatics, 15 (1), pp. 5-12. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84978143735&doi=10.1007%2fs12021-016-9308-7&partnerID=40&md5=809b56018c71ad5f30b836ce2d353977
+DOI: 10.1007/s12021-016-9308-7
+
+1. **Conde-Sousa, E.**, Aguiar, P.
+A working memory model for serial order that stores information in the intrinsic excitability properties of neurons
+(2013) Journal of Computational Neuroscience, 35 (2), pp. 187-199. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84883784747&doi=10.1007%2fs10827-013-0447-7&partnerID=40&md5=7a148e606b5d8b07ac905d83796449a9
+DOI: 10.1007/s10827-013-0447-7
+
+1. Pinto, N., Magalhães, M., **Conde-Sousa, E.**, Gomes, C., Pereira, R., Alves, C., Gusmão, L., Amorim, A.
+Assessing paternities with inconclusive STR results: The suitability of bi-allelic markers
+(2013) Forensic Science International: Genetics, 7 (1), pp. 16-21. 
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869501759&doi=10.1016%2fj.fsigen.2012.05.002&partnerID=40&md5=e096d984879fd293188cd76398a35e78
+DOI: 10.1016/j.fsigen.2012.05.002
 {: reversed="reversed"}
 
 # Publications in conference proceedings
