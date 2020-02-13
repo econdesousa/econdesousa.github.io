@@ -74,7 +74,7 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 
 1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
-DOI: [10.1186/1471-2202-14-S1-P3][https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
+DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
 [Home](https://econdesousa.github.io){: .btn}
