@@ -13,7 +13,7 @@
 <p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
 In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 13 scientific papers, and the development of one software application. 
 I participate and/or participated in 6 R&D Projects (one of which as co-PI) and supervise(d) 5 MSc dissertations. 
-I am the principal organizer of the [HEROHE grand-challenge](https://ecdp2020.grand-challenge.org/) with >800 participants.</p> 
+I am the principal organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with >800 participants.</p> 
 
 
 <p align="justify">My main research interests are in the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes.
