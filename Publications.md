@@ -11,25 +11,22 @@
 1. **Conde-Sousa, E.**, Pinto, N., Amorim, A.
 Reference DNA databases for forensic species identification: Auditing algorithms
 (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 564-566. 
-DOI: [10.1016/j.fsigss.2019.10.091]{https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075400821&doi=10.1016%2fj.fsigss.2019.10.091&partnerID=40&md5=1b89844cd909ce5f20917bffb3652662}
+DOI: [10.1016/j.fsigss.2019.10.091](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075400821&doi=10.1016%2fj.fsigss.2019.10.091&partnerID=40&md5=1b89844cd909ce5f20917bffb3652662)
 
 1. Antão-Sousa, S., **Conde-Sousa, E.**, Gusmão, L., Amorim, A., Pinto, N.
 Underestimation and misclassification of mutations at X chromosome STRs depend on population's allelic profile
 (2019) Forensic Science International: Genetics Supplement Series, 7 (1), pp. 718-720. 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074422780&doi=10.1016%2fj.fsigss.2019.10.150&partnerID=40&md5=b19974b6398b8bc58534fc0d9bd20720
-DOI: 10.1016/j.fsigss.2019.10.150
+DOI: [10.1016/j.fsigss.2019.10.150](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85074422780&doi=10.1016%2fj.fsigss.2019.10.150&partnerID=40&md5=b19974b6398b8bc58534fc0d9bd20720)
 
 1. Barros, D., **Conde-Sousa, E.**, Gonçalves, A.M., Han, W.M., García, A.J., Amaral, I.F., Pêgo, A.P.
 Engineering hydrogels with affinity-bound laminin as 3D neural stem cell culture systems
 (2019) Biomaterials Science, 7 (12), pp. 5338-5349. 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075289598&doi=10.1039%2fc9bm00348g&partnerID=40&md5=a0e7f0c71fd70ab7bdc048f86ae4f180
-DOI: 10.1039/c9bm00348g
+DOI: [10.1039/c9bm00348g](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85075289598&doi=10.1039%2fc9bm00348g&partnerID=40&md5=a0e7f0c71fd70ab7bdc048f86ae4f180)
 
 1. Rito, T., Vieira, D., Silva, M., **Conde-Sousa, E.**, Pereira, L., Mellars, P., Richards, M.B., Soares, P.
 A dispersal of Homo sapiens from southern to eastern Africa immediately preceded the out-of-Africa migration
-(2019) Scientific Reports, 9 (1), art. no. 4728, . 
-https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063327488&doi=10.1038%2fs41598-019-41176-3&partnerID=40&md5=35208bd4c89e861732c183eadc73b89c
-DOI: 10.1038/s41598-019-41176-3
+(2019) Scientific Reports, 9 (1), art. no. 4728. 
+DOI: [10.1038/s41598-019-41176-3](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85063327488&doi=10.1038%2fs41598-019-41176-3&partnerID=40&md5=35208bd4c89e861732c183eadc73b89c)
 
 1. Pinto, N., Simões, R., Amorim, A., **Conde-Sousa, E.**
 Optimizing the information increase through the addition of relatives and genetic markers in identification and kinship cases
