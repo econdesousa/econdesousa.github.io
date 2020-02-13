@@ -10,14 +10,17 @@
 
 <p align="justify">My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.</p>
 
-<p align="justify">I have a particular interest on the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes, from bioimage analysis, or neurosciences, to population genetics, or genomics.</p>
+<p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
+In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 13 scientific papers, and the development of one software application. 
+I participate and/or participated in 6 R&D Projects (one of which as co-PI) and supervise(d) 5 MSc dissertations. 
+I am the principal organizer of the [HEROHE grand-challenge](https://ecdp2020.grand-challenge.org/) with >800 participants.</p> 
 
-<p align="justify">After concluding my PhD at CMUP (Centre for Mathematics of the University of Porto) in the field of Theoretical and Computational Neuroscience in 2014, I moved to CIBIO-InBIO (Research Centre in Biodiversity and Genetics Resources) as a Bioinformatician.</p>
 
-<p align="justify">In 2016 I moved to CBMA (Centre of Molecular and Environmental Biology of University of Minho) where I worked as Bioinformatician until March 2018.</p>
+<p align="justify">My main research interests are in the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes.
+Over the years, I developed models and bioinformatics tools on bioimage analysis, neurosciences, population genetics, or genomics. 
+Presently, the most relevant part of my work is focused in blending standard bioimage analysis techniques with innovative image science and computer vision algorithms to create novel mathematical models and deploy software applications in bioimage analysis, from basic biological sciences to medical diagnosis and therapeutic.</p>
 
-<p align="justify">In April 2018, I joined INEB where I integrate the Bioimaging Scientific Platform as bioimage analyst.</p>
-   
+
  
 <table style="width:100%">
   <tr>
