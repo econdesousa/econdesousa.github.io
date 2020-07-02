@@ -9,7 +9,7 @@
 # Publications in peer reviewed journals
 
 1. Vieira, D., Esteves,S., Santiago,C, **Conde-Sousa, E.**, Fernandes, T., Pais, C.,  Soares, P., Franco-Duarte, R.
-Population analysis and evolution of Saccharomyces cerevisiae mitogenomes(2020) Microorganisms. [Accepted for publication]
+Population analysis and evolution of Saccharomyces cerevisiae mitogenomes (2020) Microorganisms. [Accepted for publication]
 
 1. **Conde-Sousa, E.**, Pinto, N., Amorim, A.
 Reference DNA databases for forensic species identification: Auditing algorithms
