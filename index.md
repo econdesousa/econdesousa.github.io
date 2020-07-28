@@ -18,7 +18,7 @@ I am the principal organizer of the <a href="https://ecdp2020.grand-challenge.or
 
 
 <p align="justify">My main research interests are in the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes.
-Over the years, I developed models and bioinformatics tools on bioimage analysis, neurosciences, population genetics, or genomics. 
+Over the years, I developed models and bioinformatics tools on bioimage analysis, neurosciences, population and forensic genetics, or genomics. 
 Presently, the most relevant part of my work is focused in blending standard bioimage analysis techniques with innovative image science and computer vision algorithms to create novel mathematical models and deploy software applications in bioimage analysis, from basic biological sciences to medical diagnosis and therapeutic.</p>
 
 
