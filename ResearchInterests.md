@@ -32,7 +32,7 @@
 <p align="justify">DNA barcoding.</p>
 
 
-### Population Genetics
+### Population and Forensic Genetics
 
 <p align="justify">Mutation modeling.</p>
 
