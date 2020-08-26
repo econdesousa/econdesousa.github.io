@@ -8,6 +8,9 @@
 
 # Publications in peer reviewed journals
 
+1. Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa** , E., Mea, V.D. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning (2020) J. Imaging, 6(9), 82; DOI: [10.3390/jimaging6090082](https://doi.org/10.3390/jimaging6090082){:target="_blank" rel="noopener"}
+
+
 1. Vieira, D., Esteves,S., Santiago,C, **Conde-Sousa, E.**, Fernandes, T., Pais, C.,  Soares, P., Franco-Duarte, R.
 Population analysis and evolution of Saccharomyces cerevisiae mitogenomes (2020) Microorganisms, 8(7), 1001; DOI: [10.3390/microorganisms8071001](https://www.mdpi.com/2076-2607/8/7/1001){:target="_blank" rel="noopener"}
 
