@@ -8,7 +8,7 @@
 
 # Publications in peer reviewed journals
 
-1. Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa** , E., Mea, V.D. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning (2020) J. Imaging, 6(9), 82; DOI: [10.3390/jimaging6090082](https://doi.org/10.3390/jimaging6090082){:target="_blank" rel="noopener"}
+1. La Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa** , E., Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning (2020) J. Imaging, 6(9), 82; DOI: [10.3390/jimaging6090082](https://doi.org/10.3390/jimaging6090082){:target="_blank" rel="noopener"}
 
 
 1. Vieira, D., Esteves,S., Santiago,C, **Conde-Sousa, E.**, Fernandes, T., Pais, C.,  Soares, P., Franco-Duarte, R.
@@ -81,6 +81,11 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
 DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
+{: reversed="reversed"}
+
+# Submitted
+
+1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 {: reversed="reversed"}
 
 [Home](https://econdesousa.github.io){: .btn}
