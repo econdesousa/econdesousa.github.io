@@ -30,7 +30,7 @@
 
 [Bioimaging @ INEB](http://www.bimage.ineb.up.pt/){:target="_blank" rel="noopener"}
                
-[Eduardo @ i3S](https://www.i3s.up.pt/content/people?id=2375&idg=91){:target="_blank" rel="noopener"}
+[Eduardo @ i3S](https://www.i3s.up.pt/personal-info.php?id=2375&idg=91){:target="_blank" rel="noopener"}
 
 [PPBI - Portuguese Platform of BioImaging](https://www.ppbi.pt/joomla30/){:target="_blank" rel="noopener"}
 
