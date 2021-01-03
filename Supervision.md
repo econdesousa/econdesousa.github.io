@@ -11,6 +11,15 @@
 
 ### MSc
 
+1. 2019 – 2020	Luís Manuel Pacheco Neto <br/>
+MSc in Computer Science<br/>
+University of Minho, Braga, Portugal<br/>
+Institution: ALGORITMI<br/>
+Thesis title: An efficient and accurate framework for large-scale sequences of DNA barcodes.<br/>
+Supervisor: Alberto Proença, PhD, ALGORITMI – Braga, Portugal<br/>
+Co-supervisor: Eduardo Conde-Sousa, PhD, INEB – Porto, Portugal<br/>
+
+
 1. 2019 – 2020	Rita Pacheco Fernandes <br/>
 MSc in Bioinformatics and Computational Biology<br/>
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal<br/>
