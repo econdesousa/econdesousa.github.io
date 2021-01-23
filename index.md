@@ -6,8 +6,6 @@
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](https://econdesousa.github.io/CV){: .btn}
 
-
-
 # Who am I?
 
 <p align="justify">My academic background is on Mathematics, holding three degrees by the Faculty of Sciences of the University of Porto: BSc in Mathematics – Educational branch, MSc in Mathematics – Foundations and Applications, and PhD in Applied Mathematics.</p>
@@ -42,6 +40,8 @@ Presently, the most relevant part of my work is focused in blending standard bio
 		<figcaption>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here</a>!</figcaption>
 	</figure>
 </center>
+
+
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
