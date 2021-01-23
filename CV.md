@@ -21,7 +21,6 @@ phone: +351 226 074 975
 
 ---
 
-
 # Personal data
 
 Full Name: Eduardo Conde Silva de Sousa
