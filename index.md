@@ -41,7 +41,6 @@ Presently, the most relevant part of my work is focused in blending standard bio
 	</figure>
 </center>
 
-
 &nbsp;
 &nbsp;
 &nbsp;
