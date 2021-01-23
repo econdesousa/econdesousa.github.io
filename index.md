@@ -37,7 +37,7 @@ Presently, the most relevant part of my work is focused in blending standard bio
 
 <center>
 	<figure>
-		<img src="https://econdesousa.github.io/assets/008_passe.gif" style="width:50%">
+		<img src="https://econdesousa.github.io/assets/008_passe.gif" style="width:20%">
 		<figcaption>for more info on this image please click <a href="https://github.com/econdesousa/ImageAnalysis/tree/master/gifWithOverlay">here</a>!</figcaption>
 	</figure>
 </center>
