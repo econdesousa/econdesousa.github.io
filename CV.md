@@ -9,7 +9,6 @@
 
 [download pdf](https://github.com/econdesousa/econdesousa.github.io/blob/master/assets/CurriculumVitaeECS.pdf){:target="_blank" rel="noopener"}
 
-
 # Eduardo Conde-Sousa
 
 ---
