@@ -4,6 +4,11 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](https://econdesousa.github.io/Contacts){: .btn}
+
+
+[download pdf](https://github.com/econdesousa/econdesousa.github.io/blob/master/assets/CurriculumVitaeECS.pdf){:target="_blank" rel="noopener"}
+
 
 ![](RackMultipart20210123-4-ra3ffs_html_66c101594899b23f.gif)Curriculum Vitae
 
