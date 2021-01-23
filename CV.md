@@ -21,7 +21,7 @@ phone: +351 226 074 975
 
 ---
 
-# Personal data
+## Personal data
 
 Full Name: Eduardo Conde Silva de Sousa
 
@@ -33,11 +33,11 @@ Residence: Porto - Portugal
 
 Citizenship: Portuguese
 
-# Current situation
+## Current situation
 
 Since 04/2018 Bioimage Analyst @ INEB – Instituto Nacional de Engenharia Biomédica, University of Porto, Portugal
 
-# **External Links**
+## **External Links**
 
 Personal webpage: [https://econdesousa.github.io](https://econdesousa.github.io/)
 
@@ -47,7 +47,7 @@ ORCID : [https://orcid.org/0000-0002-6591-5063](https://orcid.org/0000-0002-6591
 
 SCOPUS: [https://www.scopus.com/authid/detail.uri?authorId=55233686200](https://www.scopus.com/authid/detail.uri?authorId=55233686200)
 
-# **Profile**
+## **Profile**
 
 I´m holding three degrees in Mathematics and over the years I had developed very good programming skills on several environments and languages such as MATLAB, R, Python, ImageJ Macro, or Linux Shell Scripting.
 
@@ -55,9 +55,9 @@ I have a particular interest on the development and application of software for 
 
 I&#39;m also interested in lecturing at advanced courses and/or workshops.
 
-# Academic degrees
+## Academic degrees
 
-**PhD in Applied Mathematics** (2014)
+* PhD in Applied Mathematics (2014)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -68,7 +68,7 @@ Supervisor: Dr. Paulo Aguiar (Institute for Biomedical Engineering, INEB, and Ce
 Final classification: Approved with Distinction (maximum grade)
 
 
-**MSc in Mathematics – Foundations and Applications** (2004)
+* MSc in Mathematics – Foundations and Applications (2004)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -79,13 +79,14 @@ Supervisor: Prof. Ana Paula Dias ([Department of Mathematics](http://sigarra.up.
 Final classification: Very Good (maximum grade)
 
 
-**BSc in Mathematics – Educational branch** (2002)
+* BSc in Mathematics – Educational branch (2002)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
 Final classification: 16 out of 20
 
-# Work experience
+
+## Work experience
 
 04/2018 – Bioimage Analyst at INEB – Instituto Nacional de Engenharia Biomédica, University of Porto, Portugal
 
@@ -103,7 +104,7 @@ Final classification: 16 out of 20
 
 09/2001 – 08/2003 High school teacher of Mathematics (from 10th to 12th grades) in Portugal
 
-# University scholarships and grants
+## University scholarships and grants
 
 2019 Travel and accommodation grant to attend the Training School TS11 for BioImage Analysts and the Open Symposium/Showcase on Bioimage Analysis and Open Tools, Feb 1st – 8th 2019, Université du Luxembourg, Luxembourg
 
@@ -113,14 +114,14 @@ Final classification: 16 out of 20
 
 2012 Travel and accommodation grant to attend the Edinburgh Summer School in Integrative Computational Neuroscience, August 26th – September 2nd 2012, Institute for Adaptive and Neural Computation, School of Informatics, University of Edinburgh, Scotland
 
-# Participation in projects
-## Principal Investigator
+## Participation in projects
+### Principal Investigator
 
 06/2018 – 05/2021 &quot;eCSI-barcode – Efficient computational solutions for integrated DNA barcoding, metabarcoding and associated high-throughput sequencing data analysis&quot; ref: PTDC/BIA-OUT/29626/2017 Institutions: University of Minho with two centers (CBMA and ALGORITMI) and IPATIMUP.
 
 \*Between the project proposal and the project approvals&#39; date, I moved to INEB and the former co-PI and I permuted our administrative roles in the project.
 
-## Team Member
+### Team Member
 
 10/2018 – 09/2022 COMULIS: Correlated Multimodal Imaging in Life Sciences, ref: CA17121
 
@@ -134,7 +135,7 @@ Final classification: 16 out of 20
 
 12/2014 – 09/2015 &quot;Assessing The Whole-Genome Structure and Variation of the Tropical Adapted Zebu Cattle (Bos indicus) using Dense SNP Maps.&quot;, ref: PTDC/CVT/117851/2010
 
-# Computer skills and competences
+## Computer skills and competences
 
 Very good programming skills for languages such as ImageJ Macro, MATLAB, R, Python, NEURON simulation environment, Linux Shell Scripting
 
@@ -144,7 +145,7 @@ Good programming skills for languages such as C++ and Qt
 
 Good command skills for several technical software, e.g. VCFtools, BCFtools, SAMtools, PLINK, BLAST, mothur, ms, msHOT, bwa, etc.
 
-# Commissions and Working Groups
+## Commissions and Working Groups
 
 Co-chair of a sessions at the European Society of Digital and Integrative Pathology (ESDIP) workshop, 24 November 2020
 
@@ -152,7 +153,7 @@ Invited external consultant of GHEP-ISFG&#39;s working group &quot;Segregation X
 
 Invited to the &quot;Cambridge Hackathon&quot; of the BigNeuron Project. The BigNeuron Project is an international consortium aiming to define and advance the state-of-the-art of single neuron reconstruction, supported by the Human Brain Project; the Wellcome Trust (UK), the Allen Institute for Brain Science (USA), the International Neuroinformatics Coordinating Facility; or the Beijing University of Technology (China).
 
-# Lecturer at Advanced Courses &amp; Workshops
+## Lecturer at Advanced Courses &amp; Workshops
 
 Organizer and Lecturer of Batch Analysis and Macro Development in ImageJ/Fiji: going beyond the basics, 9 - 15 December 2020, i3S, Porto, Portugal
 
@@ -172,9 +173,9 @@ Organizer and Lecturer of the Workshop (18 hours) &quot;Basic Concepts of Progra
 
 Lecturer of the Workshop (30 hours) &quot;Introduction to Scientific Programming with MATLAB&quot;, 22-30 April, 2016; State University of Rio de Janeiro (UERJ), Rio de Janeiro, Brazil
 
-# Publications
+## Publications
 
-## Publications in peer reviewed journals
+### Publications in peer reviewed journals
 
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.** , 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61.; DOI: 10.3390/genes12010061
 
@@ -207,21 +208,21 @@ Lecturer of the Workshop (30 hours) &quot;Introduction to Scientific Programming
 1. Pinto N., Magalhães M., **Conde-Sousa E.** , Gomes C., Pereira R., Alves C., Gusmão L., Amorim A., Assessing paternities with inconclusive STR results: the suitability of bi-allelic markers, Forensic Science International: Genetics, Volume 7, Issue 1, January 2013, Pages 16-21.
 {: reversed="reversed"}
 
-## Publications in conference proceedings
+### Publications in conference proceedings
 
 **Conde-Sousa E.** , Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
 
-## Other Publications
+### Other Publications
 
 **Conde-Sousa E.** , Aguiar P., Detailed mathematical models in neurobiology – Storing information in membrane conductances dynamics, CIM Bulletin, 2012, 31, 19–26.
 
-## Submitted
+### Submitted
 
 **Conde-Sousa E.** , Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 
-# Communications in scientific meetings
+## Communications in scientific meetings
 
-## Invited speaker in scientific meetings
+### Invited speaker in scientific meetings
 
 &quot;The HEROHE challenge&quot;, European Society of Digital and Integrative Pathology (ESDIP) workshop, 24 November 2020
 
@@ -229,13 +230,13 @@ Lecturer of the Workshop (30 hours) &quot;Introduction to Scientific Programming
 
 &quot;A working memory model capable of storing pattern sequences without synaptic plasticity&quot;, Mathematical Neuroscience Workshop, April 2012, Center of Mathematics of University of Porto (CMUP), Portugal
 
-## Oral communications in scientific meetings
+### Oral communications in scientific meetings
 
 (Presented by\*)
 
 Pinto N., **Conde-Sousa E.** , Chen S., Pérez-Pardal L., Goyache F., Beja-Pereira A.\*, Computational tools to exploit cattle exomes. 34th Conference of International Society of Animal Genetics, Xi&#39;an, China, July, 2014.
 
-## Panel communications in scientific meetings
+### Panel communications in scientific meetings
 
 Guimarães S.C., Majumdar A., Pombinho A., **Conde-Sousa E.** , Pêgo A.P., The simpler, the better: Paving the way towards a high throughput screening platform for axonal pathology targeted therapies, i3S annual meeting, Povoa do Varzim, Portugal, November 28th-29th, 2019
 
@@ -261,7 +262,7 @@ IBRO Workshop 2014, Debrecen, Hungary, January 16th– 17th, 2014.
 
 **Conde-Sousa E.** , Aguiar P., Storing information in membrane conductances dynamics - working memory without synaptic plasticity, 1st Champalimaud Neuroscience Symposium, Lisbon, Portugal, September 18th – September 21st, 2011.
 
-# Theses Supervisions
+## Theses Supervisions
 
 2019 – 2020 Rita Pacheco Fernandes
 
@@ -347,7 +348,7 @@ Supervisor: Alexandra Lopes, PhD, IPATIMUP/i3S
 
 Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal
 
-# Jury of Dissertations
+## Jury of Dissertations
 
 Jury of the MSc in Bioinformatics, School of Engineering, University of Minho, Braga, Portugal. Dissertation title: Building a database of common genetic variation in the Portuguese population. Ana Raquel Ramos, December 5th, 2018.
 
@@ -355,7 +356,7 @@ Jury of the MSc in Bioinformatics, School of Engineering, University of Minho, B
 
 Jury of the MSc in Biophysics and Bionanosystems, School of Sciences, University of Minho, Braga, Portugal. Dissertation title: Creation of databases of ageing-related drugs and statistical analysis and applied machine learning for the prioritization of potential lifespan-extension drugs. Diogo Gonçalves Barardo, August 11th, 2016.
 
-# Attended training courses
+## Attended training courses
 
 Training School TS11 for BioImage Analysts, Feb 1st –5th 2019, Université du Luxembourg, Luxembourg
 
@@ -373,13 +374,13 @@ First Portuguese Forum On Computational Biology, July 10th-12th 2008, Instituto 
 
 Summer School on Mathematics in Biology and Medicine, September 2004, Instituto Gulbenkian de Ciência, Oeiras, Portugal
 
-# Language skills
+## Language skills
 
-## Mother tongue
+### Mother tongue
 
 Portuguese
 
-## Other languages
+### Other languages
 
 Self-assessment; European level (Common European Framework of Reference (CEF) level: [http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr](http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr))
 
