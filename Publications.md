@@ -4,6 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](https://econdesousa.github.io/CV){: .btn}
 
 
 # Publications in peer reviewed journals
@@ -90,10 +91,11 @@ DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:t
 1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 {: reversed="reversed"}
 
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-
+[CV](https://econdesousa.github.io/CV){: .btn}
