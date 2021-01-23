@@ -7,7 +7,6 @@
 [CV](https://econdesousa.github.io/Contacts){: .btn}
 
 
-
 <a href="econdesousa.github.io/assets/CurriculumVitaeECS.pdf" target="_blank">PDF view</a>
 
 # Eduardo Conde-Sousa
