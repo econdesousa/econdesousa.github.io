@@ -10,14 +10,15 @@
 [download pdf](https://github.com/econdesousa/econdesousa.github.io/blob/master/assets/CurriculumVitaeECS.pdf){:target="_blank" rel="noopener"}
 
 
-![](RackMultipart20210123-4-ra3ffs_html_66c101594899b23f.gif)Curriculum Vitae
 
 # Eduardo Conde-Sousa
 
 ---
+
 email: [econdesousa@gmail.com](mailto:econdesousa@gmail.com)
 
 phone: +351 226 074 975
+
 ---
 
 ![](RackMultipart20210123-4-ra3ffs_html_66c101594899b23f.gif)
@@ -58,7 +59,7 @@ I&#39;m also interested in lecturing at advanced courses and/or workshops.
 
 # Academic degrees
 
-### PhD in Applied Mathematics (2014)
+**PhD in Applied Mathematics** (2014)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -69,7 +70,7 @@ Supervisor: Dr. Paulo Aguiar (Institute for Biomedical Engineering, INEB, and Ce
 Final classification: Approved with Distinction (maximum grade)
 
 
-### MSc in Mathematics – Foundations and Applications (2004)
+**MSc in Mathematics – Foundations and Applications** (2004)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -80,7 +81,7 @@ Supervisor: Prof. Ana Paula Dias ([Department of Mathematics](http://sigarra.up.
 Final classification: Very Good (maximum grade)
 
 
-### BSc in Mathematics – Educational branch (2002)
+**BSc in Mathematics – Educational branch** (2002)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
