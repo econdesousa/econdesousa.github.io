@@ -4,7 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/Contacts){: .btn}
+[CV](https://econdesousa.github.io/CV){: .btn}
 
 
 <a href="econdesousa.github.io/assets/CurriculumVitaeECS.pdf" target="_blank">PDF view</a>
@@ -392,3 +392,12 @@ Self-assessment; European level (Common European Framework of Reference (CEF) le
 | **Spanish** | C2 | C2 | C1 | C1 | C1 |
 | **French** | B1 | B1 | A1 | A1 | A1 |
 
+
+
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](https://econdesousa.github.io/CV){: .btn}
