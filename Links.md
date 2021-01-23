@@ -4,6 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](https://econdesousa.github.io/CV){: .btn}
 
 
 
@@ -62,10 +63,13 @@
 [UP- University of Porto](https://sigarra.up.pt/up/en/web_base.gera_pagina?p_pagina=home){:target="_blank" rel="noopener"}
 
 
+
+
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-
+[CV](https://econdesousa.github.io/CV){: .btn}
