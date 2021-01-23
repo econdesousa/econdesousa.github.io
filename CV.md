@@ -237,29 +237,31 @@ Pinto N., **Conde-Sousa E.** , Chen S., Pérez-Pardal L., Goyache F., Beja-Perei
 
 ### Panel communications in scientific meetings
 
-Guimarães S.C., Majumdar A., Pombinho A., **Conde-Sousa E.** , Pêgo A.P., The simpler, the better: Paving the way towards a high throughput screening platform for axonal pathology targeted therapies, i3S annual meeting, Povoa do Varzim, Portugal, November 28th-29th, 2019
+1. Guimarães S.C., Majumdar A., Pombinho A., **Conde-Sousa E.** , Pêgo A.P., The simpler, the better: Paving the way towards a high throughput screening platform for axonal pathology targeted therapies, i3S annual meeting, Povoa do Varzim, Portugal, November 28th-29th, 2019
 
-**Conde-Sousa E.** , Pinto N., Amorim A., Semi-automated Auditing and Annotation of Reference Databases of DNA Barcodes for species identification , 28th World Congress of the International Society for Forensic Genetics (ISFG), Prague, Czech Republic,2019
+1. **Conde-Sousa E.** , Pinto N., Amorim A., Semi-automated Auditing and Annotation of Reference Databases of DNA Barcodes for species identification , 28th World Congress of the International Society for Forensic Genetics (ISFG), Prague, Czech Republic,2019
 
-Antão-Sousa S., **Conde-Sousa E.** , Gusmão L., Amorim A., Pinto N., Underestimation and Misclassification of Mutations at X Chromosome STRs Depend on Population Allelic Profile, 28th World Congress of the International Society for Forensic Genetics (ISFG), Prague, Czech Republic,2019
+1. Antão-Sousa S., **Conde-Sousa E.** , Gusmão L., Amorim A., Pinto N., Underestimation and Misclassification of Mutations at X Chromosome STRs Depend on Population Allelic Profile, 28th World Congress of the International Society for Forensic Genetics (ISFG), Prague, Czech Republic,2019
 
-Machado P., Gusmão L., **Conde-Sousa E.** , Pinto N., The influence of the different mutation models in kinship evaluation, 27th World Congress of the International Society for Forensic Genetics (ISFG), Seoul, South Korea, 2017
+1. Machado P., Gusmão L., **Conde-Sousa E.** , Pinto N., The influence of the different mutation models in kinship evaluation, 27th World Congress of the International Society for Forensic Genetics (ISFG), Seoul, South Korea, 2017
 
-Gonçalves J., **Conde-Sousa E.** , Amorim A., Pinto N., How relevant can the mother be, 17th Portugaliæ Genetica, IPATIMUP/i3S, Porto, Portugal, March 17th - 18th, 2016
+1. Gonçalves J., **Conde-Sousa E.** , Amorim A., Pinto N., How relevant can the mother be, 17th Portugaliæ Genetica, IPATIMUP/i3S, Porto, Portugal, March 17th - 18th, 2016
 
-**Conde-Sousa E.** , Szucs P., Aguiar P., N3DFix: An algorithm for automatic removal of swelling artifacts in neuronal 3D reconstructions, XIV Meeting of Portuguese Society for Neuroscience, Póvoa de Varzim, Portugal, June 4th - 5th, 2015
+1. **Conde-Sousa E.** , Szucs P., Aguiar P., N3DFix: An algorithm for automatic removal of swelling artifacts in neuronal 3D reconstructions, XIV Meeting of Portuguese Society for Neuroscience, Póvoa de Varzim, Portugal, June 4th - 5th, 2015
 
-Sousa M., Luz L., Antal Z., **Conde-Sousa E**., Lima D., Szucs P., Aguiar P., Distinct patterns of synaptic integration in the dendrites of tonic spinal Lamina I neurons – experimental data and computer simulations, XIV Meeting of Portuguese Society for Neuroscience, Póvoa de Varzim, Portugal, June 4th - 5th, 2015
+1. Sousa M., Luz L., Antal Z., **Conde-Sousa E**., Lima D., Szucs P., Aguiar P., Distinct patterns of synaptic integration in the dendrites of tonic spinal Lamina I neurons – experimental data and computer simulations, XIV Meeting of Portuguese Society for Neuroscience, Póvoa de Varzim, Portugal, June 4th - 5th, 2015
 
-Sousa M., Antal Z., **Conde-Sousa E.** , Aguiar P., Szucs P., Distinct Patterns of Synaptic Integration in the Dendrites of Tonic Spinal Lamina I and Lateral Spinal Nucleus Neurons,
+1. Sousa M., Antal Z., **Conde-Sousa E.** , Aguiar P., Szucs P., Distinct Patterns of Synaptic Integration in the Dendrites of Tonic Spinal Lamina I and Lateral Spinal Nucleus Neurons,
 
-IBRO Workshop 2014, Debrecen, Hungary, January 16th– 17th, 2014.
+1. IBRO Workshop 2014, Debrecen, Hungary, January 16th– 17th, 2014.
 
-**Conde-Sousa E.** , Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, CNS 2013, Paris, France, July 13th – July 18th, 2013.
+1. **Conde-Sousa E.** , Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, CNS 2013, Paris, France, July 13th – July 18th, 2013.
 
-**Conde-Sousa E.** , Aguiar P., A working memory model capable of storing sequences of patterns without using synaptic plasticity, 2nd Champalimaud Neuroscience Symposium, Lisbon, Portugal, September 30th – October 3rd, 2012.
+1. **Conde-Sousa E.** , Aguiar P., A working memory model capable of storing sequences of patterns without using synaptic plasticity, 2nd Champalimaud Neuroscience Symposium, Lisbon, Portugal, September 30th – October 3rd, 2012.
 
-**Conde-Sousa E.** , Aguiar P., Storing information in membrane conductances dynamics - working memory without synaptic plasticity, 1st Champalimaud Neuroscience Symposium, Lisbon, Portugal, September 18th – September 21st, 2011.
+1. **Conde-Sousa E.** , Aguiar P., Storing information in membrane conductances dynamics - working memory without synaptic plasticity, 1st Champalimaud Neuroscience Symposium, Lisbon, Portugal, September 18th – September 21st, 2011.
+{: reversed="reversed"}
+
 
 ## Theses Supervisions
 
