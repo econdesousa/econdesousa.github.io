@@ -4,7 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-
+[CV](https://econdesousa.github.io/CV){: .btn}
 
 
 # Supervision
@@ -69,5 +69,4 @@ Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal<br/>
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-
-
+[CV](https://econdesousa.github.io/CV){: .btn}
