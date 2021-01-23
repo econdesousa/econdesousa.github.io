@@ -58,7 +58,7 @@ I&#39;m also interested in lecturing at advanced courses and/or workshops.
 
 # Academic degrees
 
-2014 PhD in Applied Mathematics
+### PhD in Applied Mathematics (2014)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -69,7 +69,7 @@ Supervisor: Dr. Paulo Aguiar (Institute for Biomedical Engineering, INEB, and Ce
 Final classification: Approved with Distinction (maximum grade)
 
 
-2004 MSc in Mathematics – Foundations and Applications
+### MSc in Mathematics – Foundations and Applications (2004)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
@@ -80,7 +80,7 @@ Supervisor: Prof. Ana Paula Dias ([Department of Mathematics](http://sigarra.up.
 Final classification: Very Good (maximum grade)
 
 
-2002 BSc in Mathematics – Educational branch
+### BSc in Mathematics – Educational branch (2002)
 
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal
 
