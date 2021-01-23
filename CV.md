@@ -398,6 +398,9 @@ Self-assessment; European level (Common European Framework of Reference (CEF) le
 | **French** | B1 | B1 | A1 | A1 | A1 |
 
 
+&nbsp;
+&nbsp;
+&nbsp;
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
