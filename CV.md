@@ -15,13 +15,12 @@
 
 ---
 
-email: [econdesousa@gmail.com](mailto:econdesousa@gmail.com)
+email: [econdesousa@ineb.up.pt](mailto:econdesousa@ineb.up.pt) [econdesousa@gmail.com](mailto:econdesousa@gmail.com)
 
 phone: +351 226 074 975
 
 ---
 
-![](RackMultipart20210123-4-ra3ffs_html_66c101594899b23f.gif)
 
 # Personal data
 
