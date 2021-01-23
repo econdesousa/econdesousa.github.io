@@ -9,6 +9,8 @@
 
 [download pdf](https://github.com/econdesousa/econdesousa.github.io/blob/master/assets/CurriculumVitaeECS.pdf){:target="_blank" rel="noopener"}
 
+<a href="econdesousa.github.io/assets/CurriculumVitaeECS.pdf" target="_blank">PDF.</a>
+
 # Eduardo Conde-Sousa
 
 ---
