@@ -265,7 +265,7 @@ Pinto N., **Conde-Sousa E.** , Chen S., Pérez-Pardal L., Goyache F., Beja-Perei
 
 ## Theses Supervisions
 
-2019 – 2020 Rita Pacheco Fernandes
+* 2019 – 2020 Rita Pacheco Fernandes
 
 MSc in Bioinformatics and Computational Biology
 
@@ -281,7 +281,7 @@ Co-supervisor: Paulo Aguiar, PhD, INEB – Porto, Portugal
 
 Co-supervisor: Mónica Sousa, PhD, IBMC – Porto, Portugal
 
-2019 – 2020 Luís Manuel Pacheco Neto
+* 2019 – 2020 Luís Manuel Pacheco Neto
 
 MSc in Computer Science
 
@@ -295,7 +295,7 @@ Supervisor: Alberto Proença, PhD, ALGORITMI – Braga, Portugal
 
 Co-supervisor: Eduardo Conde-Sousa, PhD, INEB – Porto, Portugal
 
-2017 – 2018 Priscilla Heberle Almeida
+* 2017 – 2018 Priscilla Heberle Almeida
 
 MSc in Forensic Genetics
 
@@ -309,7 +309,7 @@ Supervisor: Nádia Pinto, PhD, IPATIMUP/i3S
 
 Co-supervisor: Eduardo Conde-Sousa, PhD, INEB – Porto, Portugal
 
-2016 – 2017 Raquel Sofia Miranda Simões
+* 2016 – 2017 Raquel Sofia Miranda Simões
 
 MSc in Bioinformatics, concluded (grade 19 out of 20)
 
@@ -323,7 +323,7 @@ Supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal
 
 Co-supervisor: Nádia Pinto, PhD, IPATIMUP/i3S
 
-2016 – 2017 Pedro Machado
+* 2016 – 2017 Pedro Machado
 
 MSc in Forensic Genetics, concluded (grade 20 out of 20)
 
@@ -337,7 +337,7 @@ Supervisor: Nádia Pinto, PhD, IPATIMUP/i3S
 
 Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal
 
-2016 – 2017 Arti Bandhana
+* 2016 – 2017 Arti Bandhana
 
 MSc in Mathematical Engineering, concluded (grade 16 out of 20)
 
