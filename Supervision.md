@@ -60,7 +60,6 @@ Supervisor: Alexandra Lopes, PhD, IPATIMUP/i3S <br/>
 Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal<br/>
 {: reversed="reversed"}
 
-
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
