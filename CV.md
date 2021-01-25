@@ -360,12 +360,6 @@ Portuguese
 
 Self-assessment; European level (Common European Framework of Reference (CEF) level: [http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr](http://europass.cedefop.europa.eu/en/resources/european-language-levels-cefr))
 
-| **Language** | **Understanding** | **Speaking** | **Writing** |
-| --- | --- | --- | --- |
-| **Listening** | **Reading** | **Spoken interaction** | **Spoken production** |
-| **English** | C2 | C2 | C1 | C1 | C2 |
-| **Spanish** | C2 | C2 | C1 | C1 | C1 |
-| **French** | B1 | B1 | A1 | A1 | A1 |
 
 <table border="1" cellspacing="0" cellpadding="0">
     <tbody>
