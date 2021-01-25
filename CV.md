@@ -367,6 +367,152 @@ Self-assessment; European level (Common European Framework of Reference (CEF) le
 | **Spanish** | C2 | C2 | C1 | C1 | C1 |
 | **French** | B1 | B1 | A1 | A1 | A1 |
 
+<table border="1" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td width="88" rowspan="2">
+                <p align="center">
+                    <strong>Language</strong>
+                </p>
+            </td>
+            <td width="175" colspan="2">
+                <p align="center">
+                    <strong>Understanding</strong>
+                </p>
+            </td>
+            <td width="173" colspan="2">
+                <p align="center">
+                    <strong>Speaking</strong>
+                </p>
+            </td>
+            <td width="81" rowspan="2">
+                <p align="center">
+                    <strong>Writing</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="108">
+                <p align="center">
+                    <strong>Listening</strong>
+                </p>
+            </td>
+            <td width="67">
+                <p align="center">
+                    <strong>Reading</strong>
+                </p>
+            </td>
+            <td width="89">
+                <p align="center">
+                    <strong>Spoken interaction</strong>
+                </p>
+            </td>
+            <td width="84">
+                <p align="center">
+                    <strong>Spoken production</strong>
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="88">
+                <p align="center">
+                    <strong>English</strong>
+                </p>
+            </td>
+            <td width="108">
+                <p align="center">
+                    C2
+                </p>
+            </td>
+            <td width="67">
+                <p align="center">
+                    C2
+                </p>
+            </td>
+            <td width="89">
+                <p align="center">
+                    C1
+                </p>
+            </td>
+            <td width="84">
+                <p align="center">
+                    C1
+                </p>
+            </td>
+            <td width="81">
+                <p align="center">
+                    C2
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="88">
+                <p align="center">
+                    <strong>Spanish</strong>
+                </p>
+            </td>
+            <td width="108">
+                <p align="center">
+                    C2
+                </p>
+            </td>
+            <td width="67">
+                <p align="center">
+                    C2
+                </p>
+            </td>
+            <td width="89">
+                <p align="center">
+                    C1
+                </p>
+            </td>
+            <td width="84">
+                <p align="center">
+                    C1
+                </p>
+            </td>
+            <td width="81">
+                <p align="center">
+                    C1
+                </p>
+            </td>
+        </tr>
+        <tr>
+            <td width="88">
+                <p align="center">
+                    <strong>French</strong>
+                </p>
+            </td>
+            <td width="108">
+                <p align="center">
+                    B1
+                </p>
+            </td>
+            <td width="67">
+                <p align="center">
+                    B1
+                </p>
+            </td>
+            <td width="89">
+                <p align="center">
+                    A1
+                </p>
+            </td>
+            <td width="84">
+                <p align="center">
+                    A1
+                </p>
+            </td>
+            <td width="81">
+                <p align="center">
+                    A1
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 
 &nbsp;
 &nbsp;
