@@ -7,7 +7,9 @@
 [CV](https://econdesousa.github.io/CV){: .btn}
 
 
-# Publications in peer reviewed journals
+# Publications list
+
+### Publications in peer reviewed journals
 
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
@@ -79,20 +81,20 @@ Assessing paternities with inconclusive STR results: The suitability of bi-allel
 DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869501759&doi=10.1016%2fj.fsigen.2012.05.002&partnerID=40&md5=e096d984879fd293188cd76398a35e78){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
-# Publications in conference proceedings
+### Publications in conference proceedings
 
 
 1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
 DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
-# Submitted
+### Submitted
 
 1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 {: reversed="reversed"}
 
 
-# Preprints
+### Preprints
 1. Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
 {: reversed="reversed"}
 
