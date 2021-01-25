@@ -224,6 +224,10 @@ Lecturer of the Workshop (30 hours) &quot;Introduction to Scientific Programming
 
 **Conde-Sousa E.** , Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 
+### Preprints
+Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
+
+
 ## Communications in scientific meetings
 
 ### Invited speaker in scientific meetings
