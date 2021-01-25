@@ -228,6 +228,7 @@ Lecturer of the Workshop (30 hours) &quot;Introduction to Scientific Programming
 Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
 
 
+
 ## Communications in scientific meetings
 
 ### Invited speaker in scientific meetings
