@@ -92,6 +92,11 @@ DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:t
 {: reversed="reversed"}
 
 
+# Preprints
+1. Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
+{: reversed="reversed"}
+
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
