@@ -12,7 +12,7 @@
 
 [Google Scholar](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao){:target="_blank" rel="noopener"}
 
-[Ciência ID: 3617-E1EE-F2FF](https://www.cienciavitae.pt/portal/3617-E1EE-F2FF)
+[Ciência ID](https://www.cienciavitae.pt/portal/3617-E1EE-F2FF)
 
 [ORCID](https://orcid.org/0000-0002-6591-5063){:target="_blank" rel="noopener"}
 
