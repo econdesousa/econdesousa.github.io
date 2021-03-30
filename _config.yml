@@ -1,8 +1,8 @@
 title: Eduardo Conde-Sousa
 description: 
-show_downloads: true
+show_downloads: false
 google_analytics: 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-redirect-from
 github:
