@@ -7,7 +7,7 @@ plugins:
   - jekyll-redirect-from
 github:
   repository_url: https://github.com/econdesousa/
-  
+
   
 #sidebar:
 #  title: "Different Versions of me"
