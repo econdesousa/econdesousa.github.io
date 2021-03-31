@@ -520,6 +520,7 @@ Self-assessment; European level (Common European Framework of Reference (CEF) le
 &nbsp;
 &nbsp;
 
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
@@ -527,3 +528,15 @@ Self-assessment; European level (Common European Framework of Reference (CEF) le
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](https://econdesousa.github.io/CV){: .btn}
+
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3JWYKYVYDZ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-3JWYKYVYDZ');
+</script>
