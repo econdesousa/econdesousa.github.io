@@ -3,6 +3,8 @@ description:
 show_downloads: false
 google_analytics: 
 theme: jekyll-theme-hacker
+listen_for_clients_preferred_style: true # false (default) or true
+
 plugins:
   - jekyll-redirect-from
 github:
