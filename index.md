@@ -21,6 +21,7 @@ Over the years, I developed models and bioinformatics tools on bioimage analysis
 Presently, the most relevant part of my work is focused in blending standard bioimage analysis techniques with innovative image science and computer vision algorithms to create novel mathematical models and deploy software applications in bioimage analysis, from basic biological sciences to medical diagnosis and therapeutic.</p>
 
 
+
  
 <table style="width:100%">
   <tr>
