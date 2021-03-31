@@ -4,6 +4,7 @@ show_downloads: false
 google_analytics: 
 theme: jekyll-theme-hacker
 listen_for_clients_preferred_style: true # false (default) or true
+footer: 'follow me on <a href="https://twitter.com/econdesousa">twitter</a>'
 
 plugins:
   - jekyll-redirect-from
