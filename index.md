@@ -55,6 +55,8 @@ Presently, the most relevant part of my work is focused in blending standard bio
 [CV](https://econdesousa.github.io/CV){: .btn}
 
 
+{% include social-media-links.html %}
+
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3JWYKYVYDZ"></script>

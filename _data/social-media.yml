@@ -1,0 +1,23 @@
+email:
+  id: 'econdesousa@gmail.com'
+  href: 'mailto:'
+  title: 'Email'
+  fa-icon: 'fa-envelope-square'
+
+instagram:
+  id: 'eduardocondesousa'
+  href: 'https://www.instagram.com/'
+  title: 'instagram'
+  fa-icon: 'fa-instagram-square'
+
+twitter:
+  id: 'econdesousa'
+  href: 'https://www.twitter.com/'
+  title: 'Twitter'
+  fa-icon: 'fa-twitter-square'
+
+github:
+  id: 'econdesousa'
+  href: 'https://github.com/'
+  title: 'GitHub'
+  fa-icon: 'fa-github-square'
