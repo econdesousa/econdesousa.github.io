@@ -93,7 +93,6 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Neilson J., Moita L., Moreira A., <i>MCL1</i> alternative 3’ UTRs are essential for Mcl-1 protein function and mitochondria morphology and are modulated by INTS9 and miR-17 in T cells (Submitted)
 
 1. Freitas A., Aroso M., Barros A., Fernandez M., **Conde-Sousa E.**, Leite M., Carvalho E., Ribeiro C. C., Ferreira R., Pêgo A. P., Vitorino R., Gomez-Lazaro M., Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease (Submitted)
-
 {: reversed="reversed"}
 
 
