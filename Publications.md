@@ -82,14 +82,6 @@ Assessing paternities with inconclusive STR results: The suitability of bi-allel
 DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869501759&doi=10.1016%2fj.fsigen.2012.05.002&partnerID=40&md5=e096d984879fd293188cd76398a35e78){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
-### Publications in conference proceedings
-
-
-1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
-DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
-{: reversed="reversed"}
-
-
 ### Accepted for Publication
 1. Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
 {: reversed="reversed"}
@@ -104,6 +96,12 @@ DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:t
 
 {: reversed="reversed"}
 
+
+### Publications in conference proceedings
+
+1.  **Conde-Sousa E.**, Aguiar P., Conversion from spatial patterns of activity to sequences of neuronal activations using gate interneurons, BMC Neuroscience, July 2013, 14(Suppl.1)
+DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:target="_blank" rel="noopener"}
+{: reversed="reversed"}
 
 
 
