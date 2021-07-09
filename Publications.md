@@ -16,6 +16,10 @@
 Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease 
 (2021) Antioxidants, 10(7), 1095; DOI: [10.3390/antiox10071095](https://doi.org/10.3390/antiox10071095){:target="_blank" rel="noopener"}
 
+1. Nelson, G. et al. QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, 
+(2021) J. Microscopy; DOI: [10.1111/jmi.13041](https://doi.org/10.1111/jmi.13041){:target="_blank" rel="noopener"}
+arXiv: [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153){:target="_blank" rel="noopener"}
+
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 
 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications 
 (2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
@@ -89,9 +93,6 @@ Assessing paternities with inconclusive STR results: The suitability of bi-allel
 DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869501759&doi=10.1016%2fj.fsigen.2012.05.002&partnerID=40&md5=e096d984879fd293188cd76398a35e78){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
-### Accepted for Publication
-1. Nelson, G. et al. (2021). QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153)
-{: reversed="reversed"}
 
 ### Submitted
 
