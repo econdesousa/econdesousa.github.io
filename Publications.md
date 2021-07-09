@@ -20,7 +20,17 @@
 Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease 
 (2021) Antioxidants, 10(7), 1095; DOI: [10.3390/antiox10071095](https://doi.org/10.3390/antiox10071095){:target="_blank" rel="noopener"}
 
-1. Nelson, G. et al. QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, 
+1. Glyn Nelson, Ulrike Boehm, Steve Bagley, Peter Bajcsy, Johanna Bischof, Claire M Brown, Aurélien Dauphin, Ian M Dobbie, John E Eriksson, Orestis Faklaris, Julia Fernandez-Rodriguez, 
+Alexia Ferrand, Laurent Gelman, Ali Gheisari, Hella Hartmann, Christian Kukat, Alex Laude, Miso Mitkovski, Sebastian Munck, Alison J North, Tobias M Rasse, Ute Resch-Genger, 
+Lucas C Schuetz, Arne Seitz, Caterina Strambio-De-Castillia, Jason R Swedlow, Ioannis Alexopoulos, Karin Aumayr, Sergiy Avilov, Gert-Jan Bakker, Rodrigo R Bammann, Andrea Bassi, 
+Hannes Beckert, Sebastian Beer, Yury Belyaev, Jakob Bierwagen, Konstantin A Birngruber, Manel Bosch, Juergen Breitlow, Lisa A Cameron, Joe Chalfoun, James J Chambers, Chieh-Li Chen, 
+**Eduardo Conde-Sousa**, Alexander D Corbett, Fabrice P Cordelieres, Elaine Del Nery, Ralf Dietzel, Frank Eismann, Elnaz Fazeli, Andreas Felscher, Hans Fried, Nathalie Gaudreault, Wah Ing Goh, 
+Thomas Guilbert, Roland Hadleigh, Peter Hemmerich, Gerhard A Holst, Michelle S Itano, Claudia B Jaffe, Helena K Jambor, Stuart C Jarvis, Antje Keppler, David Kirchenbuechler, 
+Marcel Kirchner, Norio Kobayashi, Gabriel Krens, Susanne Kunis, Judith Lacoste, Marco Marcello, Gabriel G Martins, Daniel J Metcalf, Claire A Mitchell, Joshua Moore, Tobias Mueller, 
+Michael S Nelson, Stephen Ogg, Shuichi Onami, Alexandra L Palmer, Perrine Paul-Gilloteaux, Jaime A Pimentel, Laure Plantard, Santosh Podder, Elton Rexhepaj, Arnaud Royon, Markku A Saari, 
+Damien Schapman, Vincent Schoonderwoert, Britta Schroth-Diez, Stanley Schwartz, Michael Shaw, Martin Spitaler, Martin T Stoeckl, Damir Sudar, Jeremie Teillon, Stefan Terjung, 
+Roland Thuenauer, Christian D Wilms, Graham D Wright, Roland Nitschke
+QUAREP-LiMi: A community-driven initiative to establish guidelines for quality assessment and reproducibility for instruments and images in light microscopy, 
 (2021) J. Microscopy; DOI: [10.1111/jmi.13041](https://doi.org/10.1111/jmi.13041){:target="_blank" rel="noopener"}
 arXiv: [arXiv:2101.09153 \[q-bio.OT\]](https://arxiv.org/abs/2101.09153){:target="_blank" rel="noopener"}
 
