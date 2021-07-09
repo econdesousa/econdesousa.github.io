@@ -12,10 +12,13 @@
 
 ### Publications in peer reviewed journals
 
+1. Freitas A., Aroso M., Barros A., Fernandez M., **Conde-Sousa E.**, Leite M., Carvalho E., Ribeiro C. C., Ferreira R., Pêgo A. P., Vitorino R., Gomez-Lazaro M., Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease (2021) Antioxidants, 10(7), 1095; DOI: [10.3390/antiox10071095](https://doi.org/10.3390/antiox10071095){:target="_blank" rel="noopener"}
+
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
-1. La Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa , E.**, Della Mea, V. Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning (2020) J. Imaging, 6(9), 82; DOI: [10.3390/jimaging6090082](https://doi.org/10.3390/jimaging6090082){:target="_blank" rel="noopener"}
-
+1. La Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa , E.**, Della Mea, V. 
+Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning 
+(2020) J. Imaging, 6(9), 82; DOI: [10.3390/jimaging6090082](https://doi.org/10.3390/jimaging6090082){:target="_blank" rel="noopener"}
 
 1. Vieira, D., Esteves,S., Santiago,C, **Conde-Sousa, E.**, Fernandes, T., Pais, C.,  Soares, P., Franco-Duarte, R.
 Population analysis and evolution of Saccharomyces cerevisiae mitogenomes (2020) Microorganisms, 8(7), 1001; DOI: [10.3390/microorganisms8071001](https://www.mdpi.com/2076-2607/8/7/1001){:target="_blank" rel="noopener"}
@@ -92,8 +95,6 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Neilson J., Moita L., Moreira A., <i>MCL1</i> alternative 3’ UTRs are essential for Mcl-1 protein function and mitochondria morphology and are modulated by INTS9 and miR-17 in T cells (Submitted)
 
-1. Freitas A., Aroso M., Barros A., Fernandez M., **Conde-Sousa E.**, Leite M., Carvalho E., Ribeiro C. C., Ferreira R., Pêgo A. P., Vitorino R., Gomez-Lazaro M., Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease (Submitted)
-{: reversed="reversed"}
 
 
 ### Publications in conference proceedings
