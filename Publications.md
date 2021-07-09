@@ -12,9 +12,13 @@
 
 ### Publications in peer reviewed journals
 
-1. Freitas A., Aroso M., Barros A., Fernandez M., **Conde-Sousa E.**, Leite M., Carvalho E., Ribeiro C. C., Ferreira R., Pêgo A. P., Vitorino R., Gomez-Lazaro M., Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease (2021) Antioxidants, 10(7), 1095; DOI: [10.3390/antiox10071095](https://doi.org/10.3390/antiox10071095){:target="_blank" rel="noopener"}
+1. Freitas A., Aroso M., Barros A., Fernandez M., **Conde-Sousa E.**, Leite M., Carvalho E., Ribeiro C. C., Ferreira R., Pêgo A. P., Vitorino R., Gomez-Lazaro M., 
+Characterization of the striatal extracellular matrix in a mouse model of Parkinson's disease 
+(2021) Antioxidants, 10(7), 1095; DOI: [10.3390/antiox10071095](https://doi.org/10.3390/antiox10071095){:target="_blank" rel="noopener"}
 
-1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications (2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
+1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 
+4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications 
+(2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
 
 1. La Barbera, D., Polónia, A., Roitero, K., **Conde-Sousa , E.**, Della Mea, V. 
 Detection of HER2 from Haematoxylin-Eosin Slides Through a Cascade of Deep Learning Classifiers via Multi-Instance Learning 
