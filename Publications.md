@@ -97,7 +97,7 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M. S., Turzynski, A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 
-1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Neilson J., Moita L., Moreira A., <i>MCL1</i> alternative 3’ UTRs are essential for Mcl-1 protein function and mitochondria morphology and are modulated by INTS9 and miR-17 in T cells (Submitted)
+1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Moita L., Moreira A., <i>MCL1</i> alternative polyadenylation is essential for cell survival and mitochondria morphology" (Submitted)
 
 
 
