@@ -52,7 +52,7 @@ Presently, the most relevant part of my work is focused in blending standard bio
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
+[CV](econdesousa.github.io/assets/CurriculumVitaeECS.pdf){: .btn}
 
 
 
