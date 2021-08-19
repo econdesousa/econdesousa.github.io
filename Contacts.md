@@ -4,7 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 # Contacts
 
@@ -38,7 +38,7 @@ Tel: +351 226074975
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 
 
