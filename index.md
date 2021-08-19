@@ -4,7 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/assets/CurriculumVitaeECS.pdf){: .btn}
+[CV](https://econdesousa.github.io/assets/CurriculumVitaeECS.pdf){: .btn :target="_blank"}
 
 # Who am I?
 
