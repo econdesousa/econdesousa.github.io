@@ -13,6 +13,8 @@
 
 <p align="justify">Develop new algorithms and computational tools for bioimage processing.</p>
 
+<p align="justify">Develop deep learning algorithms for digital pathology.</p>
+
 <p align="justify">Train researchers on the use of image analysis tools appropriate to their needs and on the implementation of their own workflows.</p>
 
 <p align="justify">Help researchers to prepare their experiments in order to maximize results in subsequent image analysis.</p>
