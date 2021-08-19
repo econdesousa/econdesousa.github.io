@@ -4,14 +4,13 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
-
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 # Supervision
 
 ### MSc
 
-1. 2019 – 2020	Rita Pacheco Fernandes <br/>
+1. 2019 – present	Rita Pacheco Fernandes <br/>
 MSc in Bioinformatics and Computational Biology<br/>
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal<br/>
 Institution: INEB/i3S<br/>
@@ -67,8 +66,7 @@ Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal<br/>
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
-
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
