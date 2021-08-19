@@ -8,7 +8,7 @@
 
 
 
-<a href="econdesousa.github.io/assets/CurriculumVitaeECS.pdf" target="_blank">View/download PDF</a>
+<a href="assets/CurriculumVitaeECS.pdf" target="_blank">View/download PDF</a>
 
 &nbsp;
 &nbsp;
