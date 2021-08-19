@@ -4,8 +4,7 @@
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
-
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 
 # Publications list
@@ -116,8 +115,7 @@ DOI: [10.1186/1471-2202-14-S1-P3](https://doi.org/10.1186/1471-2202-14-S1-P3){:t
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
-[CV](https://econdesousa.github.io/CV){: .btn}
-
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
