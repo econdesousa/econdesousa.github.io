@@ -10,7 +10,7 @@
 
 ### MSc
 
-1. 2019 – present	Rita Pacheco Fernandes <br/>
+1. *ongoing*	Rita Pacheco Fernandes <br/>
 MSc in Bioinformatics and Computational Biology<br/>
 Faculty of Sciences of University of Porto (FCUP), Porto, Portugal<br/>
 Institution: INEB/i3S<br/>
