@@ -5,15 +5,15 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
 
 
 # HEROHE Grand-Challenge
 
-[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
-[Rules](https://econdesousa.github.io/HEROHE/Rules){: .btn}
-[Dataset](https://econdesousa.github.io/HEROHE/Dataset){: .btn}
-[Results](https://econdesousa.github.io/HEROHE/Results){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHEmirror/index){: .btn}
+[Rules](https://econdesousa.github.io/HEROHEmirror/Rules){: .btn}
+[Dataset](https://econdesousa.github.io/HEROHEmirror/Dataset){: .btn}
+[Results](https://econdesousa.github.io/HEROHEmirror/Results){: .btn}
 
 <center>
 	<figure>
@@ -63,7 +63,7 @@ https://drive.google.com/drive/folders/1ESPnlsBXhZgb7XCl0D6gb9qcgYNntsLB?usp=sha
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
 
 
 
