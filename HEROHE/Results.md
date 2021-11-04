@@ -23,6 +23,7 @@ The Results table, ground truth and python code used can be downloaded from:
 https://drive.google.com/drive/folders/1ESPnlsBXhZgb7XCl0D6gb9qcgYNntsLB?usp=sharing
 
 | Rank	| Team							| auc		| precision	| recall	| f1		|
+| ----	| ----							| ---- 		| ----		| ---- 		| ----		|
 | 1		| Macaroon						| 0.70556	| 0.56818	| 0.83333	| 0.67568	|
 | 2		| MITEL							| 0.74426	| 0.58025	| 0.78333	| 0.66667	|
 | 3		| Piaz							| 0.84389	| 0.76744	| 0.55000	| 0.64078	|
