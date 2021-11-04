@@ -128,6 +128,22 @@ Eligibility to the Challenge's prizes is conditioned to the quality of the metho
 |2	MITEL	|Vincenzo Della Mea
 |3	Piaz	|Ehsan Montahaei
 
+## Evaluation
+Submissions are scored based on the [F1-score](https://en.wikipedia.org/wiki/F1_score),  the harmonic mean of precision and recall
+
+![F1_score](/assets/dc281a64.svg)
+
+
+## Evaluation panel:
+* Conde-Sousa, Eduardo (PhD) - i3S/INEB
+* Araújo, Teresa (PhD student) - INESC TEC and Faculty of Engineering of Universidade do Porto
+* Aresta, Guilherme (PhD student) - INESC TEC and Faculty of Engineering of Universidade do Porto
+* Aguiar, Paulo (PhD) - i3S/INEB
+* Eloy, Catarina (MD, PhD) - i3S/IPATIMUP and Faculty of Medicine of Universidade do Porto
+* Polónia, António (MD, PhD) - i3S/IPATIMUP
+
+
+![ROCHE logo](/assets/ROCHElogo.jpeg)
 
 
 [Home](https://econdesousa.github.io){: .btn}
