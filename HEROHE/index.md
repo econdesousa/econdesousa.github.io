@@ -9,6 +9,10 @@
 
 
 # HEROHE Grand-Challenge
+[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
+[Rules](https://econdesousa.github.io/HEROHE/Rules){: .btn}
+[Dataset](https://econdesousa.github.io/HEROHE/Dataset){: .btn}
+[Results](https://econdesousa.github.io/HEROHE/Results){: .btn}
 
 <center>
 	<figure>
