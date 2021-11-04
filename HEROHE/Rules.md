@@ -21,7 +21,7 @@ Please respect the rules of the Challenge. The organization reserves the right t
 
 
 
-# Registration
+## Registration
 Both individual and team participations are welcome in the Challenge. This Challenge is part of the 16th European Congress on Digital Pathology (ECDP2020). 
 For each team, at least one person must be registered in the congress to be eligible to the challenge's prizes. 
 
@@ -39,7 +39,7 @@ Registration links:
 
 ## Participation
 Participation in the Challenge is conditioned to the proper submission of:
-* Short method description, the code (or compiled version<sup>*</sup> ), and test set prediction until January 24th, 2020 until 9 a.m., January 28th, 2020 (Greenwich Mean Time - Portuguese time zone).
+* Short method description, the code (or compiled version<sup>*</sup>), and test set prediction until January 24th, 2020 until 9 a.m., January 28th, 2020 (Greenwich Mean Time - Portuguese time zone).
 
 
 To be eligible for the prizes, it is also mandatory that at least one member of each team properly register and attend ECDP2020.
