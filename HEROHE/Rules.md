@@ -111,6 +111,23 @@ The short method description should include references to any source used during
 <sup>**</sup> A .csv file with the header and the caseID column already filled will be released with the test dataset
 
 
+## Prizes
+The teams with the best results in the Challenge will be awarded with 1000 euros, 500 euros and 250 euros, for the first, second and third places, respectively. The representant of each of three best teams will also receive a free registration for the next year ECDP2021. The Challenge prizes will be paid by IPATIMUP - Instituto de Patologia e Imunologia Molecular da Universidade do Porto, the entity that provides the organizational support of ECDP2020, through a sponsorship from ROCHE.
+
+The Challenge prizes will be awarded during the ECDP2020 conference, to be held in Porto, 13th-15th May 2020. Specifically,  ECDP2020  has allocated prizes to be distributed among the three teams with the best performance***.
+
+Eligibility to the Challenge's prizes is conditioned to the quality of the method and participation at the conference***.
+
+
+
+## Awarded:
+|Rank	|Team	|Team representative
+| ----  |----   |----
+|1	Macaroon	|Ming Feng
+|2	MITEL	|Vincenzo Della Mea
+|3	Piaz	|Ehsan Montahaei
+
+
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
