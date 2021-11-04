@@ -74,6 +74,42 @@ The organization anticipates that the results of this challenge will be publishe
 If and when this happens, the dataset will become available for research purposes under the Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0). 
 The corresponding publication should thus be cited. Updates on this issue will become available in the challenge web page.
 
+## Submission
+A zipped file must be submitted until January 28 (Portuguese time) at https://ecdp2020.grand-challenge.org/evaluation/submissions/create/. 
+The submitted zipped file should contain three files/folders inside: 
+one word file with the methods description, 
+one csv file with the predictions, 
+and a folder with the code and the corresponding README file.
+
+This submission will be used to rank the methods for prize distribution.
+
+Note that each team can only participate in the challenge once, i.e., each team can only submit an algorithm. If several attempts of submission are performed, only the last will be considered.
+
+
+
+
+## Details regarding the submission files:
+The code (or compiled version<sup>*</sup>) must be released ready to use with minimal user interaction and should have a README file with a detailed explanation on how to run it. 
+It should receive as input a folder with the test dataset (please refer possible file conversions needed previously) and should return a .csv file with the predictions.
+
+The predictions file must be in the csv file format and should
+
+* be named after the team,
+* have one header row (pre-filled by us<sup>**</sup>),
+* have one row per sample, and
+* have three columns
+
+
+The caseID should match the slide’s filename (without file extension)
+
+The soft prediction should be a value, between 0 and 1 with the probability of that sample being positive.
+
+The hard prediction should be an integer 0 (for negative slides) or 1 (for positive slides).
+
+The short method description should include references to any source used during the work.
+
+<sup>**</sup> A .csv file with the header and the caseID column already filled will be released with the test dataset
+
 
 
 [Home](https://econdesousa.github.io){: .btn}
