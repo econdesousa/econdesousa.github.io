@@ -37,7 +37,7 @@ the results achieved by some of the proposed methods open potential perspectives
 
 <center>
 	<figure>
-		<img src="https://econdesousa.github.io/assets/GraphicAbstract.pdf"" style="width:80%">
+		<img src="https://econdesousa.github.io/assets/GraphicAbstract.pdf" style="width:80%">
 	</figure>
 </center>
 
