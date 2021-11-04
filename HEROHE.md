@@ -38,11 +38,6 @@ Congress on Digital Pathology, aiming to automate the assessment of the HER2 sta
 stained tissue sample of invasive breast cancer. Methods to assess HER2 status were presented by 21 teams worldwide and 
 the results achieved by some of the proposed methods open potential perspectives to advance the state-of-the-art.
 
-<center>
-	<figure>
-		<img src="https://econdesousa.github.io/assets/GraphicAbstract.pdf" style="width:80%">
-	</figure>
-</center>
 
 <center>
 	<figure>
