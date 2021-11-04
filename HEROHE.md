@@ -12,10 +12,10 @@
 
 ## Assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization
 
-[HEROHE](https://econdesousa.github.io/HEROHEmirror/index){: .btn}
-[Rules](https://econdesousa.github.io/HEROHEmirror/Rules){: .btn}
-[Dataset](https://econdesousa.github.io/HEROHEmirror/Dataset){: .btn}
-[Results](https://econdesousa.github.io/HEROHEmirror/Results){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE_GC/index){: .btn}
+[Rules](https://econdesousa.github.io/HEROHE_GC/Rules){: .btn}
+[Dataset](https://econdesousa.github.io/HEROHE_GC/Dataset){: .btn}
+[Results](https://econdesousa.github.io/HEROHE_GC/Results){: .btn}
 
 <center>
 	<figure>
