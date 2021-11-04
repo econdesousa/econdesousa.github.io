@@ -143,6 +143,7 @@ Submissions are scored based on the [F1-score](https://en.wikipedia.org/wiki/F1_
 * Polónia, António (MD, PhD) - i3S/IPATIMUP
 
 
+
 ![ROCHE logo](/assets/ROCHElogo.jpeg)
 
 
