@@ -12,7 +12,7 @@
 <center>
 	<figure>
 		<img src="https://econdesousa.github.io/assets/HEROHE_ECDP2020_alpha.jpg" style="width:80%">
-		<figcaption>This page is a copy of https://ecdp2020.grand-challenge.org/</figcaption>
+		<figcaption>This page is a copy of the <a href="https://ecdp2020.grand-challenge.org/">Grand-Challenge web page</a>!</figcaption>
 	</figure>
 </center>
 
