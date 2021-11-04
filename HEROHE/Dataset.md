@@ -38,15 +38,18 @@ digital scanner and saved in the [MIRAX](https://openslide.org/formats/mirax/) f
 image is stored divided into one .mrxs and a folder (with the same basename) containing many .dat files. 
 
 The [MIRAX](https://openslide.org/formats/mirax/) format is not supported by Bio-Formats, so images cannot 
-be opened directly in most software packages.
+be opened directly in most software packages. The [OpenSlide](https://openslide.org/) library provides a simple 
+interface to read whole-slide images through a C API and a Python API
 
 3D Histech provides two free software tools for viewing and exporting the files to commonly used formats, 
-such as tiff or jpeg. We recommend participants to use CaseViewer, which is the latest 
-(you should download the version with Converter to be able to export the files to other formats). 
-Other alternatives are 3D Histech’s Panoramic Viewer, an older viewer that also provide export options, or 
-other image analysis software that can open directly 3D Histech files such as QuPath, or Arivis. 
+such as tiff or jpeg. We recommend participants to use [CaseViewer](http://www.3dhistech.com/caseviewer), 
+which is the latest (you should download the version with Converter to be able to export the files to other formats). 
+Other alternatives are 3D Histech’s [Panoramic Viewer](http://www.3dhistech.com/pannoramic_viewer), an older viewer 
+that also provide export options, or other image analysis software that can open directly 3D Histech files such as 
+[QuPath](https://qupath.github.io/), or [Arivis](https://www.arivis.com/en/imaging-science/arivis-vision4d). 
 Participants are free to choose the software they like and if they want to convert the files to any 
 other format beforehand.
+
 
 
 ## Evaluation panel:
