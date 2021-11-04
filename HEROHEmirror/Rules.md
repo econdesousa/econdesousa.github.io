@@ -5,7 +5,7 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHEmirror/index){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
 
 # HEROHE Grand-Challenge
 
@@ -165,7 +165,7 @@ Submissions are scored based on the [F1-score](https://en.wikipedia.org/wiki/F1_
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHEmirror/index){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
