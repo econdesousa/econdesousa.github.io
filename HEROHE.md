@@ -22,11 +22,11 @@
 <center>
 	<figure>
 		<img src="https://econdesousa.github.io/assets/HEROHE_ECDP2020_alpha.jpg" style="width:80%">
-		<figcaption>This page is a copy of the <a href="https://ecdp2020.grand-challenge.org/">Grand-Challenge web page</a>!</figcaption>
 	</figure>
 </center>
 
-Details can be found at [HEROHE](https://ecdp2020.grand-challenge.org/){: .btn}
+Details can be found at [HEROHE Grand-Challenge web page](https://ecdp2020.grand-challenge.org/){: .btn}
+
 ## Abstract
 Breast cancer is the most common malignancy in women, being responsible for more than half a million deaths every year. 
 As such, early and accurate diagnosis is of paramount importance. Human expertise is required to diagnose and correctly 
