@@ -122,11 +122,11 @@ Eligibility to the Challenge's prizes is conditioned to the quality of the metho
 
 
 ## Awarded:
-|Rank	|Team	|Team representative
-| ----  |----   |----
-|1	Macaroon	|Ming Feng
-|2	MITEL	|Vincenzo Della Mea
-|3	Piaz	|Ehsan Montahaei
+|Rank	|Team	|Team representative|
+| ----  |----   |----|
+|1	Macaroon	|Ming Feng|
+|2	MITEL	|Vincenzo Della Mea|
+|3	Piaz	|Ehsan Montahaei|
 
 ## Evaluation
 Submissions are scored based on the [F1-score](https://en.wikipedia.org/wiki/F1_score),  the harmonic mean of precision and recall
