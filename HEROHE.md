@@ -12,10 +12,12 @@
 
 ### Assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization
 
+<!-- 
 [HEROHE](https://econdesousa.github.io/HEROHE_GC/index){: .btn}
 [Rules](https://econdesousa.github.io/HEROHE_GC/Rules){: .btn}
 [Dataset](https://econdesousa.github.io/HEROHE_GC/Dataset){: .btn}
 [Results](https://econdesousa.github.io/HEROHE_GC/Results){: .btn}
+-->
 
 <center>
 	<figure>
@@ -24,6 +26,7 @@
 	</figure>
 </center>
 
+Details can be found at [HEROHE](https://ecdp2020.grand-challenge.org/){: .btn}
 ## Abstract
 Breast cancer is the most common malignancy in women, being responsible for more than half a million deaths every year. 
 As such, early and accurate diagnosis is of paramount importance. Human expertise is required to diagnose and correctly 
