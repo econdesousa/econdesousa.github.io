@@ -56,6 +56,12 @@ Note that submission of a result in the Grand Challenge HEROHE does not warrant 
 
 <sup>*</sup> If the team decides to provide only a compiled version, it is their sole responsibility to ensure that it is ready to run on all major operating systems.
 
+## Data
+The presented dataset contains 360 cases, 144 positives and 216 negatives. Each whole-slide image was saved in the  [MIRAX](https://openslide.org/formats/mirax/) format.
+
+For more information please the Dataset page.
+
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
