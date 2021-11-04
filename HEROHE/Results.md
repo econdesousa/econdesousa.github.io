@@ -6,6 +6,8 @@
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
+[HEROHE](https://econdesousa.github.io/HEROHE/index.md){: .btn}
+
 
 # HEROHE Grand-Challenge
 
