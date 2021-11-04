@@ -40,8 +40,8 @@ Please note that each person can only belong to one team.
 
 Registration links: 
 
-[EDCP2020](http://ecdp2020.org)
-[HEROHE grand-challenge](https://ecdp2020.grand-challenge.org/)
+* EDCP2020](http://ecdp2020.org)`
+* [HEROHE grand-challenge](https://ecdp2020.grand-challenge.org/)
 
 
 ## Participation
