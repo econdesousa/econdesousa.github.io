@@ -62,6 +62,20 @@ The presented dataset contains 360 cases, 144 positives and 216 negatives. Each 
 For more information please the Dataset page.
 
 
+## Attribution
+
+The downloaded dataset, or any data derived from this dataset, cannot be given or redistributed under any circumstances to persons not belonging to the registered team.
+
+This dataset was designed for being used exclusively in the context of the HEROHE Grand-Challenge and / or the submission of communications to the ECDP2020. 
+The dataset, or any data derived from this dataset, cannot be used for any other purposes, including but not limited to military, industrial development/patenting, 
+or academic use (including journal publications, conference papers, technical reports, presentations at conferences and meetings or teaching).
+
+The organization anticipates that the results of this challenge will be published in an international peer-reviewed scientific journal. 
+If and when this happens, the dataset will become available for research purposes under the Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0). 
+The corresponding publication should thus be cited. Updates on this issue will become available in the challenge web page.
+
+
+
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
