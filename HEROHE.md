@@ -10,7 +10,7 @@
 
 # HEROHE Grand-Challenge
 
-## Assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization
+### Assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization
 
 [HEROHE](https://econdesousa.github.io/HEROHE_GC/index){: .btn}
 [Rules](https://econdesousa.github.io/HEROHE_GC/Rules){: .btn}
