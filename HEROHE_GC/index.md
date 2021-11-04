@@ -64,7 +64,6 @@ This challenge is held as part of the European Congress on Digital Pathology. Pl
 
 
 
-
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
