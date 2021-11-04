@@ -53,7 +53,7 @@ For questions related to the Grand Challenge, please contact [Eduardo Conde-Sous
 This challenge is held as part of the European Congress on Digital Pathology. Please read the Rules section.
 
 
- ![ROCHE logo](/assets/ROCHElogo.jpeg)
+![ROCHE logo](/assets/ROCHElogo.jpeg)
 
 
 
