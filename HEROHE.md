@@ -25,7 +25,7 @@
 	</figure>
 </center>
 
-Details can be found at [HEROHE Grand-Challenge web page](https://ecdp2020.grand-challenge.org/){: .btn}
+Details can be found at [HEROHE Grand-Challenge web page](https://ecdp2020.grand-challenge.org/){: .btn target="_blank" rel="noopener"}
 
 ## Abstract
 Breast cancer is the most common malignancy in women, being responsible for more than half a million deaths every year. 
