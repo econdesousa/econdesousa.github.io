@@ -5,6 +5,7 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
+[HEROHE](https://econdesousa.github.io/HEROHE/index.md){: .btn}
 
 
 # HEROHE Grand-Challenge
@@ -66,6 +67,7 @@ This challenge is held as part of the European Congress on Digital Pathology. Pl
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
+[HEROHE](https://econdesousa.github.io/HEROHE/index.md){: .btn}
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
