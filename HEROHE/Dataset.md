@@ -51,6 +51,21 @@ Participants are free to choose the software they like and if they want to conve
 other format beforehand.
 
 
+## Download
+Before you can download the dataset, please read the Rules section. 
+
+### Training Dataset
+Download link: (NOT AVAILABLE NOW)
+
+Alternative Google Drive: (NOT AVAILABLE NOW)
+
+Note: Image 325 has no tumor. Although there was tumor on the slide, unfortunately, 
+the small tumor is located on the periphery of the slide and was not digitized and we 
+missed that. To avoid any problems we ask you to consider disregarding this sample from 
+the dataset, given that it can cause repercussions on your results.
+
+### Test Dataset
+(NOT AVAILABLE NOW)
 
 ## Evaluation panel:
 * Conde-Sousa, Eduardo (PhD) - i3S/INEB
