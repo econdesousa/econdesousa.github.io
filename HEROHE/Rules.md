@@ -39,7 +39,20 @@ Registration links:
 
 ## Participation
 Participation in the Challenge is conditioned to the proper submission of:
-Short method description, the code (or compiled version<sup>*</sup> ), and test set prediction until January 24th, 2020 until 9 a.m., January 28th, 2020 (Greenwich Mean Time - Portuguese time zone)
+* Short method description, the code (or compiled version<sup>*</sup> ), and test set prediction until January 24th, 2020 until 9 a.m., January 28th, 2020 (Greenwich Mean Time - Portuguese time zone).
+
+
+To be eligible for the prizes, it is also mandatory that at least one member of each team properly register and attend ECDP2020.
+
+Results will be made publicly available on the Challenge website after the submission deadline.
+
+Challenge participants grant the Challenge organization the permission to use the result of their methods. Nevertheless, participating teams maintain full ownership and rights to their method. The Challenge organization does not claim any ownership or rights to the developed works.
+
+The best performing methods will be invited to collaborate on a journal paper describing and summarizing the different approaches used and the respective results achieved on the Challenge.
+
+To ensure a fair comparison of the submitted methods, the usage of any private dataset during the development of the methods is not allowed.
+
+Note that submission of a result in the Grand Challenge HEROHE does not warrant the presentation of a poster/oral presentation at ECDP2020. Each team is encouraged to submit their work as an abstract according to the abstract submission rules of ECDP2020.
 
 <sup>*</sup> If the team decides to provide only a compiled version, it is their sole responsibility to ensure that it is ready to run on all major operating systems.
 
