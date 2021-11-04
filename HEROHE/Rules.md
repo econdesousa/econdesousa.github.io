@@ -131,7 +131,7 @@ Eligibility to the Challenge's prizes is conditioned to the quality of the metho
 ## Evaluation
 Submissions are scored based on the [F1-score](https://en.wikipedia.org/wiki/F1_score),  the harmonic mean of precision and recall
 
-![F1_score](/assets/dc281a64.svg)
+![F1_score](/assets/image.webp)
 
 
 ## Evaluation panel:
