@@ -6,7 +6,7 @@
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 
-[HEROHE](https://econdesousa.github.io/HEROHE/index.md){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
 
 
 # HEROHE Grand-Challenge
@@ -59,7 +59,7 @@ https://drive.google.com/drive/folders/1ESPnlsBXhZgb7XCl0D6gb9qcgYNntsLB?usp=sha
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHE/index.md){: .btn}
+[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
 
 
 
