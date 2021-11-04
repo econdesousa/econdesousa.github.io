@@ -5,7 +5,7 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-
+[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
 
 # HEROHE Grand-Challenge
 
@@ -79,7 +79,7 @@ the dataset, given that it can cause repercussions on your results.
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-
+[HEROHE](https://econdesousa.github.io/HEROHE/index){: .btn}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-3JWYKYVYDZ"></script>
