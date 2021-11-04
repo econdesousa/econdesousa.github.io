@@ -10,6 +10,8 @@
 
 # HEROHE Grand-Challenge
 
+## Assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization
+
 [HEROHE](https://econdesousa.github.io/HEROHEmirror/index){: .btn}
 [Rules](https://econdesousa.github.io/HEROHEmirror/Rules){: .btn}
 [Dataset](https://econdesousa.github.io/HEROHEmirror/Dataset){: .btn}
@@ -22,6 +24,7 @@
 	</figure>
 </center>
 
+## Abstract
 Breast cancer is the most common malignancy in women, being responsible for more than half a million deaths every year. 
 As such, early and accurate diagnosis is of paramount importance. Human expertise is required to diagnose and correctly 
 classify breast cancer and define appropriate therapy, which depends on the evaluation of the expression of different 
