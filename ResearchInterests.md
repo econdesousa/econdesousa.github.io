@@ -6,7 +6,7 @@
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 [Short CV](assets/ShortCV.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
 
 
 # Research Interests
@@ -57,7 +57,7 @@
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 [Short CV](assets/ShortCV.pdf){:.btn target="_blank" rel="noopener"}
-[HEROHE](https://econdesousa.github.io/HEROHE){: .btn}
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
