@@ -13,6 +13,10 @@
 
 ### Publications in peer reviewed journals
 
+1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Moita L., Moreira A., 
+<i>MCL1</i> alternative polyadenylation is essential for cell survival and mitochondria morphology 
+(2022 - accepted for publication) Cellular and Molecular Life Sciences 
+
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 
 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications 
 (2021) Genes, 12, 61.; DOI: [10.3390/genes12010061](https://doi.org/10.3390/genes12010061){:target="_blank" rel="noopener"}
@@ -98,7 +102,6 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M. S., Turzynski, A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 
-1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Moita L., Moreira A., <i>MCL1</i> alternative polyadenylation is essential for cell survival and mitochondria morphology" (Submitted)
 
 
 
