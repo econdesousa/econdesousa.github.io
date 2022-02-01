@@ -5,7 +5,6 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[Short CV](assets/ShortCV.pdf){:.btn target="_blank" rel="noopener"}
 <!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
 
 
@@ -77,7 +76,6 @@
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-[Short CV](assets/ShortCV.pdf){:.btn target="_blank" rel="noopener"}
 <!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
 
 
