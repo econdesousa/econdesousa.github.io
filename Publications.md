@@ -78,9 +78,7 @@ DOI: [10.1016/j.fsigen.2017.03.018](https://www.scopus.com/inward/record.uri?eid
 1. Olivieri, A., Sidore, C., Achilli, A., Angius, A., Posth, C., Furtwängler, A., Brandini, S., Capodiferro, M.R., Gandini, F., Zoledziewska, M., Pitzalis, M., Maschio, A., Busonero, F., Lai, L., Skeates, R., Gradoli, M.G., Beckett, J., Marongiu, M., Mazzarello, V., Marongiu, P., Rubino, S., Rito, T., Macaulay, V., Semino, O., Pala, M., Abecasis, G.R., Schlessinger, D., **Conde-Sousa, E.**, Soares, P., Richards, M.B., Cucca, F., Torroni, A.
 Mitogenome Diversity in Sardinians: A Genetic Window onto an Island's Past
 (2017) Molecular Biology and Evolution, 34 (5), pp. 1230-1239. 
-DOI: [10.1093/molbev/msx082](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019115396&doi=10.1093%2fmolbev%2fmsx082&partnerID=40&md5=5448670b750362fe8d463f02a6a8d37a){:target="_blank" rel="noopener"} 
-<a target="_blank" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&scp=0037070197&origin=inward"><image src="https://api.elsevier.com/content/abstract/citation-count?doi=10.1093%2Fmolbev%2Fmsx082&apiKey=7f59af901d2d86f78a1fd60c1bf9426a&httpAccept=text%2Fhtml" border="0" alt="cited by count"/></a>
-
+DOI: [10.1093/molbev/msx082](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019115396&doi=10.1093%2fmolbev%2fmsx082&partnerID=40&md5=5448670b750362fe8d463f02a6a8d37a){:target="_blank" rel="noopener"}
 
 1. **Conde-Sousa, E.**, Szücs, P., Peng, H., Aguiar, P.
 N3DFix: an Algorithm for Automatic Removal of Swelling Artifacts in Neuronal Reconstructions
