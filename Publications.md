@@ -79,7 +79,6 @@ DOI: [10.1016/j.fsigen.2017.03.018](https://www.scopus.com/inward/record.uri?eid
 Mitogenome Diversity in Sardinians: A Genetic Window onto an Island's Past
 (2017) Molecular Biology and Evolution, 34 (5), pp. 1230-1239. 
 DOI: [10.1093/molbev/msx082](https://www.scopus.com/inward/record.uri?eid=2-s2.0-85019115396&doi=10.1093%2fmolbev%2fmsx082&partnerID=40&md5=5448670b750362fe8d463f02a6a8d37a){:target="_blank" rel="noopener"}
-(https://api.elsevier.com/content/abstract/citation-count?doi=10.1093%2Fmolbev%2Fmsx082&apiKey=7f59af901d2d86f78a1fd60c1bf9426a)
 
 
 1. **Conde-Sousa, E.**, Szücs, P., Peng, H., Aguiar, P.
