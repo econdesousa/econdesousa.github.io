@@ -28,7 +28,7 @@ For now, this is just a *work in progress*!!!
    - [ONNX classifier](https://github.com/econdesousa/portfolio/blob/main/ONNXclassifier){:target="_blank" rel="noopener"}: Sharing DL models between frameworks or programming languages. Here an ONNX model exported from MATLAB and used in Python.
 
 ## Code Snippets and tutorials
-   - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy){:.btn target="_blank" rel="noopener"}: Tutorial on numpy.
+   - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy){:target="_blank" rel="noopener"}: Tutorial on numpy.
    - [Intro to Pandas](https://github.com/econdesousa/portfolio/tree/main/Intro-to-Pandas): Tutorial on Pandas.
 
 ## Databases
