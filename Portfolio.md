@@ -36,7 +36,7 @@ For now, this is just a *work in progress*!!!
    - [4SpecID](https://github.com/4specid/4specid){:target="_blank" rel="noopener"}: a C++ software developed to audit and annotate databases published [here](https://www.mdpi.com/2073-4425/12/1/61){:target="_blank" rel="noopener"}.
   
 ## Image Analysis
-   - [ImageJ workflows](https://github.com/econdesousa/ImageAnalysis): Collection of ImageJ workflows to solve problems in image analysis.
+   - [ImageJ workflows](https://github.com/econdesousa/ImageAnalysis){:target="_blank" rel="noopener"}: Collection of ImageJ workflows to solve problems in image analysis.
 
 [Home](https://econdesousa.github.io){: .btn}
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
