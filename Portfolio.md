@@ -29,7 +29,7 @@ For now, this is just a *work in progress*!!!
 
 ## Code Snippets and tutorials
    - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy){:target="_blank" rel="noopener"}: Tutorial on numpy.
-   - [Intro to Pandas](https://github.com/econdesousa/portfolio/tree/main/Intro-to-Pandas): Tutorial on Pandas.
+   - [Intro to Pandas](https://github.com/econdesousa/portfolio/tree/main/Intro-to-Pandas){:target="_blank" rel="noopener"}: Tutorial on Pandas.
 
 ## Databases
    - [SQLite3: database interaction from Python](https://github.com/econdesousa/portfolio/blob/main/SQLite3-database-interaction-from-Python): covering how to use SQLite3 to interact with a database in python
