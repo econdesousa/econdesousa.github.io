@@ -1,3 +1,13 @@
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[Portfolio](https://econdesousa.github.io/Portfolio){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
+
 This is where I keep my data science [portfolio](https://github.com/econdesousa/portfolio/).
 
 Some of the notebooks presented here can be found and executed in directly in [DeepNote](https://deepnote.com/@econdesousa).
@@ -28,3 +38,12 @@ For now, this is just a *work in progress*!!!
 ## Image Analysis
    - [ImageJ workflows](https://github.com/econdesousa/ImageAnalysis): Collection of ImageJ workflows to solve problems in image analysis.
 
+[Home](https://econdesousa.github.io){: .btn}
+[Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
+[Publications](https://econdesousa.github.io/Publications){: .btn}
+[Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[Portfolio](https://econdesousa.github.io/Portfolio){: .btn}
+[External Links](https://econdesousa.github.io/Links){: .btn}
+[Contacts](https://econdesousa.github.io/Contacts){: .btn}
+[CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
