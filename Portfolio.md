@@ -25,7 +25,7 @@ For now, this is just a *work in progress*!!!
    - [Custom PCA class](https://github.com/econdesousa/portfolio/blob/main/PCA){:.btn target="_blank" rel="noopener"}: Principal Component Analysis is here explored in a custom class
 
 ## Deep Learning
-   - [ONNX classifier](https://github.com/econdesousa/portfolio/blob/main/ONNXclassifier): Sharing DL models between frameworks or programming languages. Here an ONNX model exported from MATLAB and used in Python.
+   - [ONNX classifier](https://github.com/econdesousa/portfolio/blob/main/ONNXclassifier){:.btn target="_blank" rel="noopener"}: Sharing DL models between frameworks or programming languages. Here an ONNX model exported from MATLAB and used in Python.
 
 ## Code Snippets and tutorials
    - [Intro to Numpy](https://github.com/econdesousa/portfolio/tree/main/Intro-to-numpy): Tutorial on numpy.
