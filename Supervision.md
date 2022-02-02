@@ -2,10 +2,11 @@
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[Portfolio](https://econdesousa.github.io/Portfolio){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
 
 # Supervision
 
@@ -65,10 +66,11 @@ Co-supervisor: Eduardo Conde-Sousa, PhD, CBMA – Braga, Portugal<br/>
 [Research Interests](https://econdesousa.github.io/ResearchInterests){: .btn}
 [Publications](https://econdesousa.github.io/Publications){: .btn}
 [Supervisions](https://econdesousa.github.io/Supervision){: .btn}
+[Portfolio](https://econdesousa.github.io/Portfolio){: .btn}
 [External Links](https://econdesousa.github.io/Links){: .btn}
 [Contacts](https://econdesousa.github.io/Contacts){: .btn}
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
-<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} -->
+<!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
 
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
