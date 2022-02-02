@@ -10,7 +10,7 @@
 
 This is where I keep my data science portfolio.
 
-Some of the notebooks presented here can be found and executed directly in [DeepNote](https://deepnote.com/@econdesousa).
+Some of the notebooks presented here can be found and executed directly in [DeepNote](https://deepnote.com/@econdesousa){:target="_blank" rel="noopener"}.
 
 For now, this is just a *work in progress*!!!
 
