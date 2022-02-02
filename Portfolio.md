@@ -32,8 +32,8 @@ For now, this is just a *work in progress*!!!
    - [Intro to Pandas](https://github.com/econdesousa/portfolio/tree/main/Intro-to-Pandas){:target="_blank" rel="noopener"}: Tutorial on Pandas.
 
 ## Databases
-   - [SQLite3: database interaction from Python](https://github.com/econdesousa/portfolio/blob/main/SQLite3-database-interaction-from-Python): covering how to use SQLite3 to interact with a database in python
-   - [4SpecID](https://github.com/4specid/4specid): a C++ software developed to audit and annotate databases published [here](https://www.mdpi.com/2073-4425/12/1/61).
+   - [SQLite3: database interaction from Python](https://github.com/econdesousa/portfolio/blob/main/SQLite3-database-interaction-from-Python){:target="_blank" rel="noopener"}: covering how to use SQLite3 to interact with a database in python
+   - [4SpecID](https://github.com/4specid/4specid){:target="_blank" rel="noopener"}: a C++ software developed to audit and annotate databases published [here](https://www.mdpi.com/2073-4425/12/1/61){:target="_blank" rel="noopener"}.
   
 ## Image Analysis
    - [ImageJ workflows](https://github.com/econdesousa/ImageAnalysis): Collection of ImageJ workflows to solve problems in image analysis.
