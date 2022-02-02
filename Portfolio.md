@@ -18,7 +18,7 @@ For now, this is just a *work in progress*!!!
 # Contents
 
 ## Data Visualization
-   - [ViolinPlot vs BoxPlot](https://github.com/econdesousa/portfolio/tree/main/DataVisualization/ViolinPlot_vs_BoxPlot): covering how to visualize data in boxplots or violinplots
+   - [ViolinPlot vs BoxPlot](https://github.com/econdesousa/portfolio/tree/main/DataVisualization/ViolinPlot_vs_BoxPlot){:.btn target="_blank" rel="noopener"}: covering how to visualize data in boxplots or violinplots
 
 ## “Classical” Machine Learning
    1. #### Unsupervised Learning
