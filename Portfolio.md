@@ -8,9 +8,9 @@
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 <!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
 
-This is where I keep my data science [portfolio](https://github.com/econdesousa/portfolio/).
+This is where I keep my data science portfolio.
 
-Some of the notebooks presented here can be found and executed in directly in [DeepNote](https://deepnote.com/@econdesousa).
+Some of the notebooks presented here can be found and executed directly in [DeepNote](https://deepnote.com/@econdesousa).
 
 For now, this is just a *work in progress*!!!
 
