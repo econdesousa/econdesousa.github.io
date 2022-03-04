@@ -14,8 +14,9 @@
 ### Publications in peer reviewed journals
 
 1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Moita L., Moreira A., 
-<i>MCL1</i> alternative polyadenylation is essential for cell survival and mitochondria morphology 
-(2022 - accepted for publication) Cellular and Molecular Life Sciences 
+MCL1 alternative polyadenylation is essential for cell survival and mitochondria morphology 
+(2022) Cellular and Molecular Life Sciences 79, 164. ; DOI: [10.1007/s00018-022-04172-x](https://doi.org/10.1007/s00018-022-04172-x)
+
 
 1. Neto, L., Pinto, N., Proença, A., Amorim, A., **Conde-Sousa, E.**, 
 4SpecID: Reference DNA Libraries Auditing and Annotation System for Forensic Applications 
