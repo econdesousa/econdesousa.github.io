@@ -13,9 +13,7 @@
 
 ### Email:
 
-<a href="mailto:eduardo.condesousa@p-95.com">eduardo.condesousa@p-95.com</a>
-
-<a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
+<a href="mailto:eduardo.condesousa@p-95.com">eduardo.condesousa@p-95.com</a> | <a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
 
 <!---
 ### Address:
