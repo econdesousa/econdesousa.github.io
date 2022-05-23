@@ -24,6 +24,13 @@
 
 ## Institutions where I worked (reverse order):
 
+### P95
+
+[P95](https://www.p-95.com/){:target="_blank" rel="noopener"}
+
+[P95 Linkedin](https://www.linkedin.com/company/p95){:target="_blank" rel="noopener"}
+
+
 ### INEB / i3S
 
 [INEB - Instituto Nacional de Engenharia Biomédica](https://www.ineb.up.pt/){:target="_blank" rel="noopener"}
