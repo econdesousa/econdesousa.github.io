@@ -8,10 +8,15 @@
 [CV](assets/CurriculumVitaeECS.pdf){:.btn target="_blank" rel="noopener"}
 <!-- [HEROHE](https://econdesousa.github.io/HEROHE){: .btn} --> 
 
-# Who am I?
+# Short Bio
 
 <p align="justify">My academic background is in mathematics. I have three degrees from the Faculty of Sciences of the University of Porto: BSc in Mathematics - Educational Branch, MSc in Mathematics - Foundations and Applications and PhD in Applied Mathematics.</p>
+<p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the Centre for Mathematics of the University of Porto.</p>
+<p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: CIBIO-inBIO and CBMA, Portugal.</p>
+<p align="justify">In April 2018, he moved to INEB/i3S, Portugal, to work as a bioimage analyst.</p>
+<p align="justify">In April 2022, I joined P95 as an Analyst Programmer.</p>
 
+<!-- 
 <p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
 In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
 I participate and/or participated in 6 R&D projects (one of which as co-PI) and supervise(d) 6 MSc dissertations. 
@@ -21,6 +26,7 @@ I am the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" t
 <p align="justify">My main research interests are in the development and application of software for mathematical modeling, simulation and data analysis for the study of biological processes.
 Over the years, I have developed models and bioinformatics tools for bioimage analysis, neurosciences, population and forensic genetics, or genomics. 
 Currently, the most important part of my work focuses on blending standard bioimage analysis techniques with innovative image science and computer vision algorithms to create novel mathematical models and deploy software applications for bioimage analysis, from basic biological sciences to medical diagnosis and therapeutic.</p>
+-->
 
 
 
