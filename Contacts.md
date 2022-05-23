@@ -13,10 +13,11 @@
 
 ### Email:
 
-<a href="mailto:econdesousa@ineb.up.pt">econdesousa@ineb.up.pt</a>
+<a href="mailto:eduardo.condesousa@p-95.com">eduardo.condesousa@p-95.com</a>
 
 <a href="mailto:econdesousa@gmail.com">econdesousa@gmail.com</a>
 
+<!---
 ### Address:
 
 Eduardo Conde-Sousa
@@ -26,7 +27,7 @@ INEB/i3S, Rua Alfredo Allen, 208
 4200-135 Porto, Portugal
 
 Tel: +351 226074975
-
+-->
 
 
 <center>
