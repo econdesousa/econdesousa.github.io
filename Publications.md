@@ -103,7 +103,7 @@ DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid
 
 1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M. S., Turzynski, A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
 
-1. Manubens-Gil L, et al., BigNeuron: A resource to benchmark and predict best-performing algorithms for automated reconstruction of neuronal morphology  (Submitted) bioRxiv 2022.05.10.491406; DOI: [10.1101/2022.05.10.491406](https://doi.org/10.1101/2022.05.10.491406)
+1. Manubens-Gil L, et al., BigNeuron: A resource to benchmark and predict best-performing algorithms for automated reconstruction of neuronal morphology (Submitted) bioRxiv 2022.05.10.491406; DOI: [10.1101/2022.05.10.491406](https://doi.org/10.1101/2022.05.10.491406)
 
 
 ### Publications in conference proceedings
