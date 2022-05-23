@@ -30,7 +30,11 @@ Tel: +351 226074975
 -->
 
 <center>
-	<iframe src="https://www.google.com/maps/place/MC-SQUARE+Leuven/@50.8671054,4.7105559,17z/data=!3m1!4b1!4m5!3m4!1s0x47c161882b77307b:0x841e27519fa29b3!8m2!3d50.867102!4d4.7127446?hl=en-US" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+	<div class="mapouter">
+		<div class="gmap_canvas">
+			<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=P95%20Office%20MC-Square%20Leuven%20Philipssite%205%20bus%201%203001%20Leuven%20Belgium&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">add google map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
+		</div>
+	</div>	
 </center>
 
 <!--
