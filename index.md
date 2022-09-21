@@ -19,6 +19,7 @@
 <p align="justify">In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
 I participate and/or participated in 8 R&D projects (2 of which as co-PI) and supervise(d) 6 MSc dissertations. 
 I am the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with >800 participants.</p> 
+
 <!-- 
 <p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
 In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
