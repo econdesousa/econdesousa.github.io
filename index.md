@@ -14,7 +14,7 @@
 <p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the <a href="https://www.cmup.pt/" target="_blank">Centre for Mathematics of the University of Porto</a>
 .</p>
 <p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: <a href="https://cibio.up.pt/" target="_blank">CIBIO-inBIO</a>, and <a href="http://cbma.uminho.pt/" target="_blank">CBMA</a>, Portugal.</p>
-<p align="justify">In April 2018, I moved to [INEB](https://www.ineb.up.pt/){:target="_blank" rel="noopener"}[/i3S](https://www.i3s.up.pt/){:target="_blank" rel="noopener"}, Portugal, to work as a bioimage analyst.</p>
+<p align="justify">In April 2018, I moved to <a href="https://www.ineb.up.pt/" target="_blank">INEB</a><a href="https://www.i3s.up.pt/" target="_blank">/i3S</a>, Portugal, to work as a bioimage analyst.</p>
 <p align="justify">In April 2022, I joined [P95](https://www.p-95.com/){:target="_blank" rel="noopener"} as Data Scientist.</p>
 <p align="justify">In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
 I participate and/or participated in 8 R&D projects (2 of which as co-PI) and supervise(d) 6 MSc dissertations. 
