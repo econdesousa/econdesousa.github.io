@@ -15,10 +15,10 @@
 .</p>
 <p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: [CIBIO-inBIO](https://cibio.up.pt/){:target="_blank" rel="noopener"}
  and [CBMA](http://cbma.uminho.pt/){:target="_blank" rel="noopener"}, Portugal.</p>
-<p align="justify">In April 2018, I moved to INEB/i3S, Portugal, to work as a bioimage analyst.</p>
+<p align="justify">In April 2018, I moved to [INEB](https://www.ineb.up.pt/){:target="_blank" rel="noopener"}[/i3S](https://www.i3s.up.pt/){:target="_blank" rel="noopener"}, Portugal, to work as a bioimage analyst.</p>
 <p align="justify">In April 2022, I joined [P95](https://www.p-95.com/){:target="_blank" rel="noopener"} as Data Scientist.</p>
 <p align="justify">In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
-I participate and/or participated in 6 R&D projects (one of which as co-PI) and supervise(d) 6 MSc dissertations. 
+I participate and/or participated in 8 R&D projects (2 of which as co-PI) and supervise(d) 6 MSc dissertations. 
 I am the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with >800 participants.</p> 
 <!-- 
 <p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
