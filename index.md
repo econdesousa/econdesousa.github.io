@@ -11,8 +11,10 @@
 # Short Bio
 
 <p align="justify">My academic background is in mathematics. I have three degrees from the Faculty of Sciences of the University of Porto: BSc in Mathematics - Educational Branch, MSc in Mathematics - Foundametals and Applications and PhD in Applied Mathematics.</p>
-<p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the Centre for Mathematics of the University of Porto.</p>
-<p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: CIBIO-inBIO and CBMA, Portugal.</p>
+<p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the [Centre for Mathematics of the University of Porto](https://www.cmup.pt/){:target="_blank" rel="noopener"}
+.</p>
+<p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: [CIBIO-inBIO](https://cibio.up.pt/){:target="_blank" rel="noopener"}
+ and [CBMA](http://cbma.uminho.pt/){:target="_blank" rel="noopener"}, Portugal.</p>
 <p align="justify">In April 2018, I moved to INEB/i3S, Portugal, to work as a bioimage analyst.</p>
 <p align="justify">In April 2022, I joined [P95](https://www.p-95.com/){:target="_blank" rel="noopener"} as Data Scientist.</p>
 <p align="justify">In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
