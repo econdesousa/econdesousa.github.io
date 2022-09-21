@@ -29,16 +29,6 @@ INEB/i3S, Rua Alfredo Allen, 208
 Tel: +351 226074975
 -->
 
-<!--
-<center>
-	<div class="mapouter">
-		<div class="gmap_canvas">
-			<iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=P95%20Office%20MC-Square%20Leuven%20Philipssite%205%20bus%201%203001%20Leuven%20Belgium&t=&z=17&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://putlocker-is.org"></a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">add google map</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style>
-		</div>
-	</div>	
-</center>
--->
-
 <center>
 	<div class="mapouter">
 		<div class="gmap_canvas">
