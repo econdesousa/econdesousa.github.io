@@ -32,7 +32,7 @@ Estimations of Mutation Rates Depend on Population Allele Frequency Distribution
 Genes, 2022, 13(7), 1248
 DOI: [10.3390/genes13071248](https://doi.org/10.3390/genes13071248)
 
-1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M., Turzynski A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., 
+1. **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M., Turzynski A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., 
 HEROHE Challenge: Predicting HER2 Status in Breast Cancer from Hematoxylin–Eosin Whole-Slide Imaging. 
 2022, J. Imaging, 8, 213. DOI: [10.3390/jimaging8080213](https://doi.org/10.3390/jimaging8080213)
 
