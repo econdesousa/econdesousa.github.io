@@ -13,6 +13,15 @@
 
 ### Publications in peer reviewed journals
 
+1. Manubens-Gil L., et al., 
+BigNeuron: a resource to benchmark and predict performance of algorithms for automated tracing of neurons in light microscopy datasets. 
+Nat Methods (2023).  DOI: [10.1038/s41592-023-01848-5](https://doi.org/10.1038/s41592-023-01848-5)
+
+1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M., Turzynski A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., 
+HEROHE Challenge: Predicting HER2 Status in Breast Cancer from Hematoxylin–Eosin Whole-Slide Imaging. 
+2022, J. Imaging, 8, 213. DOI: [10.3390/jimaging8080213](https://doi.org/10.3390/jimaging8080213)
+
+
 1. Pereira-Castro I., Garcia B., Curinha A., Neves-Costa A., **Conde-Sousa E.**, Moita L., Moreira A., 
 MCL1 alternative polyadenylation is essential for cell survival and mitochondria morphology 
 (2022) Cellular and Molecular Life Sciences 79, 164. ; DOI: [10.1007/s00018-022-04172-x](https://doi.org/10.1007/s00018-022-04172-x)
@@ -98,12 +107,6 @@ Assessing paternities with inconclusive STR results: The suitability of bi-allel
 DOI: [10.1016/j.fsigen.2012.05.002](https://www.scopus.com/inward/record.uri?eid=2-s2.0-84869501759&doi=10.1016%2fj.fsigen.2012.05.002&partnerID=40&md5=e096d984879fd293188cd76398a35e78){:target="_blank" rel="noopener"}
 {: reversed="reversed"}
 
-
-### Submitted
-
-1.  **Conde-Sousa E.**, Vale J., Feng M., Xu K., Wang Y., Della Mea V., La Barbera D., Montahaei E., Baghshah M. S., Turzynski, A., Gildenblat J., Klaiman E., Hong Y., Aresta G., Araújo T., Aguiar P., Eloy C., Polónia A., HEROHE Challenge: assessing HER2 status in breast cancer without immunohistochemistry or in situ hybridization (Submitted)
-
-1. Manubens-Gil L, et al., BigNeuron: A resource to benchmark and predict best-performing algorithms for automated reconstruction of neuronal morphology (Submitted) bioRxiv 2022.05.10.491406; DOI: [10.1101/2022.05.10.491406](https://doi.org/10.1101/2022.05.10.491406)
 
 
 ### Publications in conference proceedings
