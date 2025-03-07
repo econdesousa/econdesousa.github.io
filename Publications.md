@@ -15,7 +15,7 @@
 
 1. Nguyen J. L., Mitratza M., Volkman H. R., de Munter L., Tran T. M. P., Marques C., Mustapha M., Valluri S., Yang J., Antón A., 
 Casas I., **Conde-Sousa E.**, Drikite L., Grüner B., Icardi G., ten Kate G. L., Martin C. Mira-Iglesias A., Orrico-Sánchez A., 
-Otero-Romero S., Rohde G., Jodar L. ,McLaughlin J. M., Bollaerts K. 
+Otero-Romero S., Rohde G., Jodar L., McLaughlin J. M., Bollaerts K. 
 Effectiveness of the BNT162b2 XBB.1.5-adapted vaccine against COVID-19 hospitalization related to the JN.1 variant in 
 Europe: a test-negative case-control study using the id.DRIVE platform, *eClinicalMedicine*, DOI: [10.1016/j.eclinm.2024.102995](https://doi.org/10.1016/j.eclinm.2024.102995)
 
