@@ -10,15 +10,21 @@
 
 # Short Bio
 
-<p align="justify">My academic background is in mathematics. I have three degrees from the Faculty of Sciences of the University of Porto: BSc in Mathematics - Educational Branch, MSc in Mathematics - Foundametals and Applications and PhD in Applied Mathematics.</p>
-<p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the <a href="https://www.cmup.pt/" target="_blank">Centre for Mathematics of the University of Porto</a>
-.</p>
+<p align="justify">My academic background is in mathematics. I have three degrees from the Faculty of Sciences of the University of Porto: BSc in 
+Mathematics - Educational Branch, MSc in Mathematics - Fundamentals and Applications, and PhD in Applied Mathematics.</p>
+<p align="justify">After 9 years of teaching mathematics, I obtained a PhD in Applied Mathematics at the 
+<a href="https://www.cmup.pt/" target="_blank">Centre for Mathematics of the University of Porto</a>.</p>
 <p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: <a href="https://cibio.up.pt/" target="_blank">CIBIO-inBIO</a>, and <a href="http://cbma.uminho.pt/" target="_blank">CBMA</a>, Portugal.</p>
 <p align="justify">In April 2018, I moved to <a href="https://www.ineb.up.pt/" target="_blank">INEB</a><a href="https://www.i3s.up.pt/" target="_blank">/i3S</a>, Portugal, to work as a bioimage analyst.</p>
-<p align="justify">In April 2022, I joined <a href="https://www.p-95.com/" target="_blank">P95</a> as Data Scientist.</p>
-<p align="justify">In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
-I participate and/or participated in 8 R&D projects (2 of which as co-PI) and supervise(d) 6 MSc dissertations. 
-I am the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with >800 participants.</p> 
+<p align="justify">In April 2022, I joined <a href="https://www.p-95.com/" target="_blank">P95</a> as an Analytical Programmer. 
+I work mainly in id.DRIVE, where I am one of the statisticians/data scientists in the team. I’m the lead statistician in one of the 
+vaccine effectiveness studies currently undergoing, and I’m responsible for the collaborative platform management, ensuring coding best 
+practices through the implementation of coding standards, version control (git / GitLab) integration, coding and QCing other team member's codes. I'm also frequently involved 
+in knowledge sharing, via oral presentations or tutorials.</p>
+<p align="justify">In my professional activities, I have interacted with over 100 collaborators, resulting in the co-authorship of 
+27 scientific papers, and I am the main developer of several software applications. I participated in 10 R&D projects (2 of which as co-PI) and 
+supervised 6 MSc dissertations. I was the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with over 800 participants.</p> 
+
 <!-- 
 <p align="justify">I am a BioImage Analyst at INEB / i3S (Instituto Nacional de Engenharia Biomédica / Instituto de Investigação e Inovação em Saúde). 
 In my professional activities interacted with >60 collaborators, resulting in the co-authorship of 18 scientific papers, and I am the main developer of several software applications. 
