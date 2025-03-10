@@ -22,7 +22,7 @@ vaccine effectiveness studies currently undergoing, and I’m responsible for th
 practices through the implementation of coding standards, version control (git / GitLab) integration, coding and QCing other team member's codes. I'm also frequently involved 
 in knowledge sharing, via oral presentations or tutorials.</p>
 <p align="justify">In my professional activities, I have interacted with over 100 collaborators, resulting in the co-authorship of 
-27 scientific papers, and I am the main developer of several software applications. I participated in 10 R&D projects (2 of which as co-PI) and 
+more than 25 scientific papers, and I am the main developer of several software applications. I participated in 10 R&D projects (2 of which as co-PI) and 
 supervised 6 MSc dissertations. I was the main organizer of the <a href="https://ecdp2020.grand-challenge.org/" target="_blank">HEROHE grand-challenge</a> with over 800 participants.</p> 
 
 <!-- 
