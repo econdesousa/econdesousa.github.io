@@ -11,6 +11,8 @@
 
 # External information about me
 
+[Linkedin](https://www.linkedin.com/in/econdesousa/){:target="_blank" rel="noopener"}
+
 [Google Scholar](https://scholar.google.pt/citations?user=xi0xi2AAAAAJ&hl=pt-PT&oi=ao){:target="_blank" rel="noopener"}
 
 [Ciência ID](https://www.cienciavitae.pt/portal/3617-E1EE-F2FF){:target="_blank" rel="noopener"}
