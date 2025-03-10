@@ -17,7 +17,7 @@ Mathematics - Educational Branch, MSc in Mathematics - Fundamentals and Applicat
 <p align="justify">In the following 3 years (2015-2018), I developed my research activities as a bioinformatics postdoc in two research centers: <a href="https://cibio.up.pt/" target="_blank">CIBIO-inBIO</a>, and <a href="http://cbma.uminho.pt/" target="_blank">CBMA</a>, Portugal.</p>
 <p align="justify">In April 2018, I moved to <a href="https://www.ineb.up.pt/" target="_blank">INEB</a><a href="https://www.i3s.up.pt/" target="_blank">/i3S</a>, Portugal, to work as a bioimage analyst.</p>
 <p align="justify">In April 2022, I joined <a href="https://www.p-95.com/" target="_blank">P95</a> as an Analytical Programmer. 
-I work mainly in id.DRIVE, where I am one of the statisticians/data scientists in the team. I’m the lead statistician in one of the 
+I work mainly in <a href="https://iddrive.eu/" target="_blank">id.DRIVE</a>, where I am one of the statisticians/data scientists in the team. I’m the lead statistician in one of the 
 vaccine effectiveness studies currently undergoing, and I’m responsible for the collaborative platform management, ensuring coding best 
 practices through the implementation of coding standards, version control (git / GitLab) integration, coding and QCing other team member's codes. I'm also frequently involved 
 in knowledge sharing, via oral presentations or tutorials.</p>
