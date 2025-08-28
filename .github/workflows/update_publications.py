@@ -10,7 +10,8 @@ def get_publications(scholar_id):
     """
     try:
         # Search for the author by ID and get the first result
-        author = scholarly.authordb.search_author_by_id(scholar_id)
+        search_query = scholarly.search_author(scholar_id)
+        author = next(search_query)
         
         # Fill the author's profile with their publications
         author = scholarly.fill(author, sections=['publications'])
