@@ -28,7 +28,7 @@ jobs:
       # Runs a script to fetch and format the publications
       - name: Fetch and format publications
         run: |
-          python update_publications.py
+          python .github/workflows/update_publications.py
 
       # Commits the changes back to the repository
       - name: Commit files
