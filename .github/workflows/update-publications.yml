@@ -1,0 +1,40 @@
+name: Update Publications
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checks out repository to the runner's workspace
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Sets up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      # Installs a library to fetch Google Scholar data
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install scholar.py
+
+      # Runs a script to fetch and format the publications
+      - name: Fetch and format publications
+        run: |
+          python update_publications.py
+
+      # Commits the changes back to the repository
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add publications.md
+          git commit -m "Update publications list via GitHub Action" || echo "No changes to commit"
+          git push
