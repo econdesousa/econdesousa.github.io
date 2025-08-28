@@ -1,16 +1,18 @@
 import scholarly
 import markdown_it
+import scholarly
 
 def get_publications(scholar_id):
     """
     Fetches and returns a list of publications from Google Scholar.
     """
     try:
-        # Correctly search for the author by ID
-        author = scholarly.search_author_id(scholar_id)
+        # Search for the author by ID and get the first result
+        search_query = scholarly.search_author_id(scholar_id)
+        author = next(search_query)
         
         # Fill the author's profile with their publications
-        author = scholarly.fill(author)
+        author = scholarly.fill(author, sections=['publications'])
         
         publications = [pub for pub in author.publications]
         print(f"Found {len(publications)} publications.")
@@ -18,6 +20,8 @@ def get_publications(scholar_id):
     except Exception as e:
         print(f"Error fetching data from Google Scholar: {e}")
         return []
+
+# ... the rest of your script
 
 def format_publications_markdown(publications):
     """
