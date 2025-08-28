@@ -5,10 +5,15 @@ def get_publications(scholar_id):
     """
     Fetches and returns a list of publications from Google Scholar.
     """
-    # Use a try-except block to handle potential errors
     try:
-        author = scholarly.get_author(scholar_id)
+        # Correctly search for the author by ID
+        author = scholarly.search_author_id(scholar_id)
+        
+        # Fill the author's profile with their publications
+        author = scholarly.fill(author)
+        
         publications = [pub for pub in author.publications]
+        print(f"Found {len(publications)} publications.")
         return publications
     except Exception as e:
         print(f"Error fetching data from Google Scholar: {e}")
