@@ -23,6 +23,8 @@
 
 [ResearchID](https://publons.com/researcher/2113172/eduardo-conde-sousa/){:target="_blank" rel="noopener"}
 
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Conde-Sousa+Eduardo&sort=pubdate){:target="_blank" rel="noopener"}
+
 
 ## Institutions where I worked (reverse order):
 
