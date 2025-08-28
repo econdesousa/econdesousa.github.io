@@ -5,9 +5,14 @@ def get_publications(scholar_id):
     """
     Fetches and returns a list of publications from Google Scholar.
     """
-    author = scholarly.get_by_author_id(scholar_id)
-    publications = [pub for pub in author.publications]
-    return publications
+    # Use a try-except block to handle potential errors
+    try:
+        author = scholarly.get_author(scholar_id)
+        publications = [pub for pub in author.publications]
+        return publications
+    except Exception as e:
+        print(f"Error fetching data from Google Scholar: {e}")
+        return []
 
 def format_publications_markdown(publications):
     """
