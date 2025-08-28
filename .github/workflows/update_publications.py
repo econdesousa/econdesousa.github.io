@@ -5,7 +5,7 @@ def get_publications(scholar_id):
     """
     Fetches and returns a list of publications from Google Scholar.
     """
-    author = next(scholarly.search_author_id(scholar_id))
+    author = scholarly.get_by_author_id(scholar_id)
     publications = [pub for pub in author.publications]
     return publications
 
