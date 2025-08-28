@@ -1,6 +1,8 @@
 import scholarly
 import markdown_it
-import scholarly
+from scholarly import scholarly
+
+
 
 def get_publications(scholar_id):
     """
@@ -8,8 +10,7 @@ def get_publications(scholar_id):
     """
     try:
         # Search for the author by ID and get the first result
-        search_query = scholarly.search_author_id(scholar_id)
-        author = next(search_query)
+        author = scholarly.authordb.search_author_by_id(scholar_id)
         
         # Fill the author's profile with their publications
         author = scholarly.fill(author, sections=['publications'])
